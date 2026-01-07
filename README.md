@@ -1,12 +1,8 @@
+
 # Hi, I'm Piyush Ramteke 👋
+![Pink and Purple Gradient Technology Business LinkedIn Banner](Pink%20and%20Purple%20Gradient%20Technology%20Business%20LinkedIn%20Banner.png)
 
 I am a passionate Data Science student with a strong interest in Machine Learning, Python development, and real-world problem solving. I enjoy working with data, building models, and continuously improving my technical skills through hands-on projects.
-
-![Piyu242005's Stats](https://github-readme-stats.vercel.app/api?username=Piyu242005&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
-![Piyu242005's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Piyu242005&show_icons=true&theme=vue-dark&hide_border=true)
-
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Piyu242005&show_icons=true&theme=vue-dark)
 
 
 ## 🚀 About Me
