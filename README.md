@@ -4,6 +4,11 @@ I am a passionate Data Science student with a strong interest in Machine Learnin
 
 ![Piyu242005's Stats](https://github-readme-stats.vercel.app/api?username=Piyu242005&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
+![Piyu242005's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Piyu242005&show_icons=true&theme=vue-dark&hide_border=true)
+
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Piyu242005&show_icons=true&theme=vue-dark)
+
+
 ## 🚀 About Me
 
 - 🎓 Data Science student with a strong foundation in Python and Machine Learning  
@@ -44,8 +49,10 @@ I am a passionate Data Science student with a strong interest in Machine Learnin
 
 ## 📬 Get in Touch
 
-- 💼 LinkedIn: *(Add your LinkedIn link here)*  
-- 📧 Email: *(Add your professional email)*  
+- 💼 LinkedIn: [linkedin.com/in/piyu24](https://www.linkedin.com/in/piyu24)
+- 🐙 GitHub: [github.com/Piyu242005](https://github.com/Piyu242005)
+- 📸 Instagram: [@my.life_24143](https://www.instagram.com/my.life_24143/)
+- 📧 Email: [piyu.143247@gmail.com](mailto:piyu.143247@gmail.com)
 
 Thanks for visiting my profile.  
 I am always open to learning, collaboration, and growth in the field of Data Science.
