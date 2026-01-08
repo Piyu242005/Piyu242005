@@ -21,7 +21,7 @@ I am a passionate Data Science student with a strong interest in Machine Learnin
 
 ## 🧰 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=python,flask,git,mysql,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,flask,git,github,anaconda,mysql,md,html,css)](www.linkedin.com/in/piyu24)
 
 **Core Skills**
 - Python (Pandas, NumPy)
