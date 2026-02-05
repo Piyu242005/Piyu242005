@@ -87,14 +87,38 @@ me.say_hi()
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 GitHub Highlights
 
 <div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Piyu242005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9745F5&icon_color=9745F5" />
-<img width="49%" src="https://streak-stats.demolab.com/?user=Piyu242005&theme=tokyonight&hide_border=true&background=0D1117&stroke=9745F5&ring=9745F5&fire=FF6B6B&currStreakLabel=9745F5" />
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyu242005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9745F5" />
+![GitHub followers](https://img.shields.io/github/followers/Piyu242005?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=9745F5)
+![GitHub User's stars](https://img.shields.io/github/stars/Piyu242005?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=9745F5)
+
+<br>
+
+| 🎯 Metric | 📊 Status |
+|-----------|-----------|
+| 🔥 **Commits** | ![](https://img.shields.io/badge/Active%20Contributor-00C853?style=flat-square&logo=git&logoColor=white) |
+| 📁 **Repositories** | ![](https://img.shields.io/badge/Building%20Projects-9745F5?style=flat-square&logo=github&logoColor=white) |
+| 🌟 **Open Source** | ![](https://img.shields.io/badge/Learning%20%26%20Growing-FF6B6B?style=flat-square&logo=opensourceinitiative&logoColor=white) |
+| 🚀 **Focus** | ![](https://img.shields.io/badge/Data%20Science%20%26%20ML-0077B5?style=flat-square&logo=python&logoColor=white) |
+
+</div>
+
+---
+
+## 💡 Skills & Expertise
+
+<div align="center">
+
+```text
+Python          ████████████████████░░░░░   80%
+Data Analysis   ██████████████████░░░░░░░   72%
+Machine Learning████████████████░░░░░░░░░   64%
+SQL             ███████████████░░░░░░░░░░   60%
+Visualization   █████████████████░░░░░░░░   68%
+Flask           ████████████░░░░░░░░░░░░░   48%
+```
 
 </div>
 
@@ -119,18 +143,82 @@ me.say_hi()
 
 <div align="center">
 
-🎖️ **Completed multiple Data Science projects**  
-📜 **Certified in Python, Machine Learning & Prompt Engineering**
+### 🎓 Professional Certifications
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+**🤖 AI & Generative AI**
+
+</td>
+<td align="center" width="50%">
+
+**📊 Data Science & Python**
+
+</td>
+</tr>
+<tr>
+<td>
+
+![IBM](https://img.shields.io/badge/IBM-052FAD?style=flat-square&logo=ibm&logoColor=white) **Generative AI Essentials: Using LLMs to Work with Data**
+
+![IBM](https://img.shields.io/badge/IBM-052FAD?style=flat-square&logo=ibm&logoColor=white) **Introduction to Retrieval Augmented Generation (RAG)**
+
+![DataCamp](https://img.shields.io/badge/DataCamp-03EF62?style=flat-square&logo=datacamp&logoColor=black) **Working with the OpenAI API**
+
+![DataCamp](https://img.shields.io/badge/DataCamp-03EF62?style=flat-square&logo=datacamp&logoColor=black) **Prompt Engineering**
+
+</td>
+<td>
+
+![CodeWithHarry](https://img.shields.io/badge/CodeWithHarry-FF0000?style=flat-square&logo=youtube&logoColor=white) **Data Scientist Certification**
+
+![CodeWithHarry](https://img.shields.io/badge/CodeWithHarry-FF0000?style=flat-square&logo=youtube&logoColor=white) **Python Bootcamp Certification**
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+![Certifications](https://img.shields.io/badge/Total%20Certifications-6-9745F5?style=for-the-badge&logo=acclaim&logoColor=white)
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## ⏱️ Weekly Coding Stats
 
 <div align="center">
-  
-[![Piyush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Piyu242005&bg_color=0d1117&color=9745F5&line=9745F5&point=FFFFFF&area=true&hide_border=true)](https://github.com/Piyu242005)
+
+<!--START_SECTION:waka-->
+```text
+🐍 Python       12 hrs 30 mins  ████████████░░░░░░░░░   58.2%
+📊 Jupyter      5 hrs 15 mins   ██████░░░░░░░░░░░░░░░   24.4%
+🗄️ SQL          2 hrs 10 mins   ██░░░░░░░░░░░░░░░░░░░   10.1%
+📝 Markdown     1 hr 5 mins     █░░░░░░░░░░░░░░░░░░░░    5.0%
+🌐 HTML/CSS     30 mins         ░░░░░░░░░░░░░░░░░░░░░    2.3%
+```
+<!--END_SECTION:waka-->
+
+</div>
+
+---
+
+## 🎯 2026 Goals
+
+<div align="center">
+
+| Goal | Status |
+|------|--------|
+| 🚀 Complete 5 ML Projects | ![](https://geps.dev/progress/60) |
+| 📚 Master Deep Learning | ![](https://geps.dev/progress/35) |
+| ☁️ Learn Cloud Deployment | ![](https://geps.dev/progress/25) |
+| 🏆 Contribute to Open Source | ![](https://geps.dev/progress/40) |
+| 📖 Read 10 Tech Books | ![](https://geps.dev/progress/50) |
 
 </div>
 
