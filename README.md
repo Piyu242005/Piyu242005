@@ -35,7 +35,7 @@ me = DataScientist()
 me.say_hi()
 ```
 
-<img align="right" alt="Piyush" width="400" src="Piyu%20SVG.svg">
+<img align="right" alt="Piyush" width="400" src="Piyu%20GIF.gif">
 
 - 🎓 **Data Science student** with a strong foundation in Python & ML
 - 📊 Experienced in **data analysis, visualization & predictive modeling**
@@ -111,14 +111,57 @@ me.say_hi()
 
 <div align="center">
 
-```text
-Python          ████████████████████░░░░░   80%
-Data Analysis   ██████████████████░░░░░░░   72%
-Machine Learning████████████████░░░░░░░░░   64%
-SQL             ███████████████░░░░░░░░░░   60%
-Visualization   █████████████████░░░░░░░░   68%
-Flask           ████████████░░░░░░░░░░░░░   48%
-```
+### 📊 Core Statistics & Analytics
+![Hypothesis Testing](https://img.shields.io/badge/Hypothesis%20Testing-4B8BBE?style=flat-square)
+![A/B Testing](https://img.shields.io/badge/A%2FB%20Testing-FF6B6B?style=flat-square)
+![Probability](https://img.shields.io/badge/Probability%20%26%20Distributions-9745F5?style=flat-square)
+![Regression](https://img.shields.io/badge/Regression%20Analysis-00C853?style=flat-square)
+![KPI Definition](https://img.shields.io/badge/KPI%20Definition-0077B5?style=flat-square)
+![Data Storytelling](https://img.shields.io/badge/Storytelling%20with%20Data-E4405F?style=flat-square)
+
+### 🤖 Machine Learning
+![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-F7931E?style=flat-square)
+![Model Evaluation](https://img.shields.io/badge/ROC%20|%20AUC%20|%20F1-150458?style=flat-square)
+![Cross Validation](https://img.shields.io/badge/Cross%20Validation-3776AB?style=flat-square)
+![Bias Variance](https://img.shields.io/badge/Bias–Variance%20Tradeoff-FF6B6B?style=flat-square)
+![Ensemble](https://img.shields.io/badge/Ensemble%20Models-00C853?style=flat-square)
+![Anomaly Detection](https://img.shields.io/badge/Anomaly%20Detection-9745F5?style=flat-square)
+
+### 🧠 Advanced ML & NLP
+![Time Series](https://img.shields.io/badge/Time%20Series%20(ARIMA)-4B8BBE?style=flat-square)
+![Recommendation](https://img.shields.io/badge/Recommendation%20Systems-E4405F?style=flat-square)
+![Text Preprocessing](https://img.shields.io/badge/Text%20Preprocessing-0077B5?style=flat-square)
+![TF-IDF](https://img.shields.io/badge/TF--IDF%20|%20Embeddings-F37626?style=flat-square)
+![Sentiment](https://img.shields.io/badge/Sentiment%20Analysis-00C853?style=flat-square)
+![LLM](https://img.shields.io/badge/LLM%20|%20Prompting%20|%20RAG-9745F5?style=flat-square)
+
+### 🔧 Data Handling & Deployment
+![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-3776AB?style=flat-square)
+![EDA](https://img.shields.io/badge/Exploratory%20Data%20Analysis-150458?style=flat-square)
+![Missing Values](https://img.shields.io/badge/Missing%20Value%20Treatment-FF6B6B?style=flat-square)
+![Model Deployment](https://img.shields.io/badge/Model%20Deployment-00C853?style=flat-square)
+![API](https://img.shields.io/badge/API%20for%20ML%20Models-0077B5?style=flat-square)
+![Documentation](https://img.shields.io/badge/Documentation-4B8BBE?style=flat-square)
+
+### ⚖️ Ethics & Explainability
+![Data Privacy](https://img.shields.io/badge/Data%20Privacy-E4405F?style=flat-square)
+![Model Fairness](https://img.shields.io/badge/Model%20Fairness-9745F5?style=flat-square)
+![XAI](https://img.shields.io/badge/Explainable%20AI%20(SHAP%20|%20LIME)-F7931E?style=flat-square)
+
+</div>
+
+---
+
+## 🎯 Portfolio & Growth
+
+<div align="center">
+
+| 🚀 Focus Area | 📌 Status |
+|--------------|-----------|
+| 🔬 End-to-end Projects | ![](https://img.shields.io/badge/Building-00C853?style=flat-square) |
+| 📝 Case Studies | ![](https://img.shields.io/badge/Documenting-0077B5?style=flat-square) |
+| 🏆 Kaggle Competitions | ![](https://img.shields.io/badge/Participating-20BEFF?style=flat-square&logo=kaggle&logoColor=white) |
+| 📂 GitHub Repositories | ![](https://img.shields.io/badge/Active-9745F5?style=flat-square&logo=github&logoColor=white) |
 
 </div>
 
