@@ -1,7 +1,7 @@
 
 <div align="center">
   
-# 🌍 Hello, World! I’m Piyush Ramteke 👨‍💻✨
+# Hi, I'm Piyush Ramteke 👋👨‍💻✨
 
 ![Banner](Pink%20and%20Purple%20Gradient%20Technology%20Business%20LinkedIn%20Banner.png)
 
@@ -104,26 +104,6 @@ me.say_hi()
 
 ---
 
-## 🏆 GitHub Highlights
-
-<div align="center">
-
-![GitHub followers](https://img.shields.io/github/followers/Piyu242005?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=9745F5)
-![GitHub User's stars](https://img.shields.io/github/stars/Piyu242005?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=9745F5)
-
-<br>
-
-| 🎯 Metric | 📊 Status |
-|-----------|-----------|
-| 🔥 **Commits** | ![](https://img.shields.io/badge/Active%20Contributor-00C853?style=flat-square&logo=git&logoColor=white) |
-| 📁 **Repositories** | ![](https://img.shields.io/badge/Building%20Projects-9745F5?style=flat-square&logo=github&logoColor=white) |
-| 🌟 **Open Source** | ![](https://img.shields.io/badge/Learning%20%26%20Growing-FF6B6B?style=flat-square&logo=opensourceinitiative&logoColor=white) |
-| 🚀 **Focus** | ![](https://img.shields.io/badge/Data%20Science%20%26%20ML-0077B5?style=flat-square&logo=python&logoColor=white) |
-
-</div>
-
----
-
 ## 🎯 Portfolio & Growth
 
 <div align="center">
@@ -138,17 +118,19 @@ me.say_hi()
 </div>
 
 ---
-
-## 🌱 Currently Learning
-
 <div align="center">
+  
+## 📘 Currently Learning 🚀
 
-```
-🔥 Advanced Machine Learning Techniques
-📦 Model Optimization & Evaluation  
-🚀 End-to-End ML Project Deployment
-☁️ Cloud Deployment Basics
-```
+| Area | Topics | Emoji |
+|-----|-------|-------|
+| Data Science | Data cleaning, EDA | 📊 |
+| Python | NumPy, Pandas, Visualization | 🐍 |
+| Machine Learning | Supervised & Unsupervised, Evaluation | 🤖 |
+| Artificial Intelligence | LLM basics, AI APIs | 🧠 |
+| Career Preparation | ATS resume, Internship experience | 🎯 |
+
+
 
 </div>
 
@@ -205,67 +187,12 @@ me.say_hi()
 
 ---
 
-## ⏱️ Weekly Coding Stats
+## 📬 Get in Touch
 
-<div align="center">
+- 💼 LinkedIn: [linkedin.com/in/piyu24](https://www.linkedin.com/in/piyu24)
+- 🐙 GitHub: [github.com/Piyu242005](https://github.com/Piyu242005)
+- 📸 Instagram: [@my.life_24143](https://www.instagram.com/my.life_24143/)
+- 📧 Email: [piyu.143247@gmail.com](mailto:piyu.143247@gmail.com)
 
-<!--START_SECTION:waka-->
-```text
-🐍 Python       12 hrs 30 mins  ████████████░░░░░░░░░   58.2%
-📊 Jupyter      5 hrs 15 mins   ██████░░░░░░░░░░░░░░░   24.4%
-🗄️ SQL          2 hrs 10 mins   ██░░░░░░░░░░░░░░░░░░░   10.1%
-📝 Markdown     1 hr 5 mins     █░░░░░░░░░░░░░░░░░░░░    5.0%
-🌐 HTML/CSS     30 mins         ░░░░░░░░░░░░░░░░░░░░░    2.3%
-```
-<!--END_SECTION:waka-->
-
-</div>
-
----
-
-## 🎯 2026 Goals
-
-<div align="center">
-
-| Goal | Status |
-|------|--------|
-| 🚀 Complete 5 ML Projects | ![](https://geps.dev/progress/60) |
-| 📚 Master Deep Learning | ![](https://geps.dev/progress/35) |
-| ☁️ Learn Cloud Deployment | ![](https://geps.dev/progress/25) |
-| 🏆 Contribute to Open Source | ![](https://geps.dev/progress/40) |
-| 📖 Read 10 Tech Books | ![](https://geps.dev/progress/50) |
-
-</div>
-
----
-
-## 🤝 Let's Connect!
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/piyu24"><img src="https://img.shields.io/badge/-Piyush%20Ramteke-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:piyu.143247@gmail.com"><img src="https://img.shields.io/badge/-piyu.143247@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-<a href="https://github.com/Piyu242005"><img src="https://img.shields.io/badge/-Piyu242005-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
-<a href="https://www.instagram.com/my.life_24143/"><img src="https://img.shields.io/badge/-@my.life__24143-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-
-</div>
-
----
-
-<div align="center">
-
-### 💭 Random Dev Quote
-  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
-
-**Thanks for visiting! ⭐ Star my repos if you find them interesting!**
-
-*"In God we trust. All others must bring data." – W. Edwards Deming*
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-</div>
+Thanks for visiting my profile.  
+I am always open to learning, collaboration, and growth in the field of Data Science.
