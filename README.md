@@ -101,7 +101,7 @@ print(f"Hi! I'm {me.name} 👋")
 
 <br/>
 
-#### 🧰 Skills Matrix
+#### 👑 Royal Skills Matrix 👑
 
 </div>
 
@@ -111,26 +111,26 @@ print(f"Hi! I'm {me.name} 👋")
 
 | &nbsp; | 💻 **Technical Skills** | &nbsp; |
 |:---:|:---|:---:|
-| 🐍 | Python — Pandas, NumPy, Matplotlib | ████████░░ |
-| 🗄️ | SQL & Database Design | ███████░░░ |
-| 🧹 | Data Cleaning & EDA | ████████░░ |
-| 🤖 | Machine Learning — Scikit-learn | ███████░░░ |
-| 📊 | Data Visualization | ████████░░ |
-| 🌐 | Flask Web Deployment | ██████░░░░ |
-| 🔧 | Git & Version Control | ███████░░░ |
+| 🐍 | Python — Pandas, NumPy, Matplotlib | <img src="https://img.shields.io/badge/80%25-FFD700?style=for-the-badge&labelColor=black&logoColor=black" /> |
+| 🗄️ | SQL & Database Design | <img src="https://img.shields.io/badge/70%25-FFD700?style=for-the-badge&labelColor=black&logoColor=black" /> |
+| 🧹 | Data Cleaning & EDA | <img src="https://img.shields.io/badge/80%25-FFD700?style=for-the-badge&labelColor=black&logoColor=black" /> |
+| 🤖 | Machine Learning — Scikit-learn | <img src="https://img.shields.io/badge/70%25-FFD700?style=for-the-badge&labelColor=black&logoColor=black" /> |
+| 📊 | Data Visualization | <img src="https://img.shields.io/badge/80%25-FFD700?style=for-the-badge&labelColor=black&logoColor=black" /> |
+| 🌐 | Flask Web Deployment | <img src="https://img.shields.io/badge/60%25-FFD700?style=for-the-badge&labelColor=black&logoColor=black" /> |
+| 🔧 | Git & Version Control | <img src="https://img.shields.io/badge/70%25-FFD700?style=for-the-badge&labelColor=black&logoColor=black" /> |
 
 </td>
 <td>
 
 | &nbsp; | 🧠 **Soft Skills** | &nbsp; |
 |:---:|:---|:---:|
-| 🔍 | Analytical Thinking | ████████░░ |
-| 💡 | Problem Solving | ████████░░ |
-| 🗣️ | Clear Communication | ███████░░░ |
-| 🤝 | Team Collaboration | ████████░░ |
-| ⏱️ | Time Management | ███████░░░ |
-| 📚 | Continuous Learning | █████████░ |
-| 🎯 | Attention to Detail | ████████░░ |
+| 🔍 | Analytical Thinking | <img src="https://img.shields.io/badge/80%25-FFD700?style=for-the-badge&labelColor=black&logoColor=black" /> |
+| 💡 | Problem Solving | <img src="https://img.shields.io/badge/80%25-FFD700?style=for-the-badge&labelColor=black&logoColor=black" /> |
+| 🗣️ | Clear Communication | <img src="https://img.shields.io/badge/70%25-FFD700?style=for-the-badge&labelColor=black&logoColor=black" /> |
+| 🤝 | Team Collaboration | <img src="https://img.shields.io/badge/80%25-FFD700?style=for-the-badge&labelColor=black&logoColor=black" /> |
+| ⏱️ | Time Management | <img src="https://img.shields.io/badge/70%25-FFD700?style=for-the-badge&labelColor=black&logoColor=black" /> |
+| 📚 | Continuous Learning | <img src="https://img.shields.io/badge/90%25-FFD700?style=for-the-badge&labelColor=black&logoColor=black" /> |
+| 🎯 | Attention to Detail | <img src="https://img.shields.io/badge/80%25-FFD700?style=for-the-badge&labelColor=black&logoColor=black" /> |
 
 </td>
 </tr>
@@ -244,25 +244,25 @@ print(f"Hi! I'm {me.name} 👋")
 <!-- ═══════════════════════ DIVIDER ═══════════════════════ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📚 &nbsp;**Currently Learning**
+## 👑 &nbsp;**Royal Currently Learning** 👑
 
 <div align="center">
 <br/>
 
 | &nbsp; | 🎯 Area | 📖 Topics | 📈 Progress |
 |:---:|:------:|:---------|:----------:|
-| 📊 | **Data Science** | Data Cleaning · EDA · Feature Engineering | ![](https://geps.dev/progress/75) |
-| 🐍 | **Python** | NumPy · Pandas · Advanced Visualization | ![](https://geps.dev/progress/80) |
-| 🤖 | **Machine Learning** | Supervised · Unsupervised · Evaluation | ![](https://geps.dev/progress/65) |
-| 🧠 | **Artificial Intelligence** | LLM Basics · AI APIs · RAG Pipelines | ![](https://geps.dev/progress/50) |
-| 🎯 | **Career Prep** | ATS Resume · Internship Projects · Portfolio | ![](https://geps.dev/progress/70) |
+| 📊 | **Data Science** | Data Cleaning · EDA · Feature Engineering | <img src="https://img.shields.io/badge/75%25-FFD700?style=for-the-badge&labelColor=black&logoColor=black" /> |
+| 🐍 | **Python** | NumPy · Pandas · Advanced Visualization | <img src="https://img.shields.io/badge/80%25-FFD700?style=for-the-badge&labelColor=black&logoColor=black" /> |
+| 🤖 | **Machine Learning** | Supervised · Unsupervised · Evaluation | <img src="https://img.shields.io/badge/65%25-FFD700?style=for-the-badge&labelColor=black&logoColor=black" /> |
+| 🧠 | **Artificial Intelligence** | LLM Basics · AI APIs · RAG Pipelines | <img src="https://img.shields.io/badge/50%25-FFD700?style=for-the-badge&labelColor=black&logoColor=black" /> |
+| 🎯 | **Career Prep** | ATS Resume · Internship Projects · Portfolio | <img src="https://img.shields.io/badge/70%25-FFD700?style=for-the-badge&labelColor=black&logoColor=black" /> |
 
 </div>
 
 <!-- ═══════════════════════ DIVIDER ═══════════════════════ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🎯 &nbsp;**2026 Roadmap**
+## 👑 &nbsp;**Royal 2026 Roadmap** 👑
 
 <div align="center">
 <br/>
@@ -283,11 +283,11 @@ print(f"Hi! I'm {me.name} 👋")
 
 | Goal | Status | Progress |
 |:-----|:------:|:--------:|
-| 🔬 Build 5+ end-to-end ML projects | ![](https://img.shields.io/badge/In%20Progress-00C853?style=flat-square) | ![](https://geps.dev/progress/75) |
-| 📝 Publish data science case studies | ![](https://img.shields.io/badge/Documenting-0077B5?style=flat-square) | ![](https://geps.dev/progress/60) |
-| 🏆 Participate in Kaggle competitions | ![](https://img.shields.io/badge/Active-20BEFF?style=flat-square&logo=kaggle&logoColor=white) | ![](https://geps.dev/progress/50) |
-| 🌐 Deploy ML models to production | ![](https://img.shields.io/badge/Learning-FFA500?style=flat-square) | ![](https://geps.dev/progress/40) |
-| 🤝 Contribute to open-source projects | ![](https://img.shields.io/badge/Starting-B565F5?style=flat-square) | ![](https://geps.dev/progress/25) |
+| 🔬 Build 5+ end-to-end ML projects | <img src="https://img.shields.io/badge/In_Progress-FFD700?style=for-the-badge&labelColor=black&logoColor=black" /> | <img src="https://img.shields.io/badge/75%25-FFD700?style=for-the-badge&labelColor=black&logoColor=black" /> |
+| 📝 Publish data science case studies | <img src="https://img.shields.io/badge/Documenting-FFD700?style=for-the-badge&labelColor=black&logoColor=black" /> | <img src="https://img.shields.io/badge/60%25-FFD700?style=for-the-badge&labelColor=black&logoColor=black" /> |
+| 🏆 Participate in Kaggle competitions | <img src="https://img.shields.io/badge/Active-FFD700?style=for-the-badge&labelColor=black&logoColor=black&logo=kaggle" /> | <img src="https://img.shields.io/badge/50%25-FFD700?style=for-the-badge&labelColor=black&logoColor=black" /> |
+| 🌐 Deploy ML models to production | <img src="https://img.shields.io/badge/Learning-FFD700?style=for-the-badge&labelColor=black&logoColor=black" /> | <img src="https://img.shields.io/badge/40%25-FFD700?style=for-the-badge&labelColor=black&logoColor=black" /> |
+| 🤝 Contribute to open-source projects | <img src="https://img.shields.io/badge/Starting-FFD700?style=for-the-badge&labelColor=black&logoColor=black" /> | <img src="https://img.shields.io/badge/25%25-FFD700?style=for-the-badge&labelColor=black&logoColor=black" /> |
 
 <!-- ═══════════════════════ DIVIDER ═══════════════════════ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
