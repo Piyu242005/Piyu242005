@@ -204,43 +204,39 @@ print(f"Hi! I'm {me.name} 👋")
 <div align="center">
 <br/>
 
-<!-- GitHub Stats Summary -->
-<img src="https://github-contributor-stats.vercel.app/api?username=Piyu242005&limit=5&theme=radical&combine_all_yearly_contributions=true&border_color=B565F5" width="55%" />
+
+
 
 <br/><br/>
 
 </div>
 
+
+<div align="center">
+
 #### 📜 Professional Certifications
 
-<table align="center">
-<tr>
-<th width="50%">🤖 AI & Generative AI</th>
-<th width="50%">📊 Data Science & Python</th>
-</tr>
-<tr>
-<td valign="top">
+<br/>
 
-&nbsp;&nbsp; ![IBM](https://img.shields.io/badge/IBM-052FAD?style=flat-square&logo=ibm&logoColor=white) &nbsp;**Generative AI Essentials**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Using LLMs to Work with Data*
+**🤖 AI & Generative AI**
 
-&nbsp;&nbsp; ![IBM](https://img.shields.io/badge/IBM-052FAD?style=flat-square&logo=ibm&logoColor=white) &nbsp;**Introduction to RAG**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Retrieval Augmented Generation*
+<br/>
 
-&nbsp;&nbsp; ![DC](https://img.shields.io/badge/DataCamp-03EF62?style=flat-square&logo=datacamp&logoColor=black) &nbsp;**Working with OpenAI API**
+<img src="https://img.shields.io/badge/IBM-Generative%20AI%20Essentials-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
+<img src="https://img.shields.io/badge/IBM-Introduction%20to%20RAG-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
+<img src="https://img.shields.io/badge/DataCamp-Working%20with%20OpenAI%20API-03EF62?style=for-the-badge&logo=datacamp&logoColor=black" />
+<img src="https://img.shields.io/badge/DataCamp-Prompt%20Engineering-03EF62?style=for-the-badge&logo=datacamp&logoColor=black" />
 
-&nbsp;&nbsp; ![DC](https://img.shields.io/badge/DataCamp-03EF62?style=flat-square&logo=datacamp&logoColor=black) &nbsp;**Prompt Engineering**
+<br/><br/>
 
-</td>
-<td valign="top">
+**📊 Data Science & Python**
 
-&nbsp;&nbsp; ![CWH](https://img.shields.io/badge/CodeWithHarry-FF0000?style=flat-square&logo=youtube&logoColor=white) &nbsp;**Data Scientist Certification**
+<br/>
 
-&nbsp;&nbsp; ![CWH](https://img.shields.io/badge/CodeWithHarry-FF0000?style=flat-square&logo=youtube&logoColor=white) &nbsp;**Python Bootcamp Certification**
+<img src="https://img.shields.io/badge/CodeWithHarry-Data%20Scientist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+<img src="https://img.shields.io/badge/CodeWithHarry-Python%20Bootcamp-FF0000?style=for-the-badge&logo=python&logoColor=white" />
 
-</td>
-</tr>
-</table>
+</div>
 
 <div align="center">
 
