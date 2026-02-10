@@ -144,11 +144,20 @@ print(f"Hi! I'm {me.name} 👋")
 <div align="center">
 <br/>
 
-<a href="https://github.com/Piyu242005/Customer-Satisfaction-Prediction">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Piyu242005&repo=Customer-Satisfaction-Prediction&theme=radical&border_color=B565F5&border_radius=12&show_owner=true" width="47%" />
+<a href="https://github.com/Piyu242005/Airline-Passenger-Satisfaction-Prediction">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Piyu242005&repo=Airline-Passenger-Satisfaction-Prediction&theme=radical&border_color=B565F5&border_radius=12&show_owner=true" width="47%" />
 </a>&nbsp;&nbsp;
-<a href="https://github.com/Piyu242005/Piyu242005">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Piyu242005&repo=Piyu242005&theme=radical&border_color=B565F5&border_radius=12&show_owner=true" width="47%" />
+<a href="https://github.com/Piyu242005/CODSOFT-INTERNSHIP-DATA-SCIENTIST">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Piyu242005&repo=CODSOFT-INTERNSHIP-DATA-SCIENTIST&theme=radical&border_color=B565F5&border_radius=12&show_owner=true" width="47%" />
+</a>
+
+<br/>
+
+<a href="https://github.com/Piyu242005/Uber-Trip-Analysis-using-Machine-Learning">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Piyu242005&repo=Uber-Trip-Analysis-using-Machine-Learning&theme=radical&border_color=B565F5&border_radius=12&show_owner=true" width="47%" />
+</a>&nbsp;&nbsp;
+<a href="https://github.com/Piyu242005/Healthy-Life-Expectancy-HALE-Analysis">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Piyu242005&repo=Healthy-Life-Expectancy-HALE-Analysis&theme=radical&border_color=B565F5&border_radius=12&show_owner=true" width="47%" />
 </a>
 
 <br/><br/>
@@ -157,11 +166,12 @@ print(f"Hi! I'm {me.name} 👋")
 
 | &nbsp; | Project | What It Does | Built With |
 |:---:|:--------|:-------------|:-----------|
-| 🥇 | [**Customer Satisfaction Prediction**](https://github.com/Piyu242005/Customer-Satisfaction-Prediction) | ML model predicting customer satisfaction levels with high accuracy | `Python` `Scikit-learn` `Pandas` `SHAP` |
-| 🥈 | **Life Expectancy Analysis** | In-depth analysis of global life expectancy trends & influencing factors | `Python` `Matplotlib` `Seaborn` `EDA` |
-| 🥉 | **TCS Stock Data Visualization** | Live stock data visualization pulled from real-time APIs | `Python` `REST API` `Pandas` |
-| 🏅 | **Uber Trip Analysis** | Comprehensive EDA uncovering trip patterns & demand insights | `Python` `Visualization` `EDA` |
-| 🏅 | **Portfolio Website** | Modern retro-themed personal portfolio with animations | `HTML` `CSS` `JS` `Flask` |
+| 🥇 | [**Airline Passenger Satisfaction**](https://github.com/Piyu242005/Airline-Passenger-Satisfaction-Prediction) | ML model predicting passenger satisfaction with high accuracy | `Python` `Scikit-learn` `Pandas` `SHAP` |
+| 🥈 | [**Healthy Life Expectancy Analysis**](https://github.com/Piyu242005/Healthy-Life-Expectancy-HALE-Analysis) | In-depth analysis of global life expectancy trends & influencing factors | `Python` `Matplotlib` `Seaborn` `EDA` |
+| 🥉 | [**TCS Stock Data — Live & Latest**](https://github.com/Piyu242005/TCS-Stock-Data---Live-and-Latest) | Live stock data visualization pulled from real-time APIs | `Python` `REST API` `Pandas` |
+| 🏅 | [**Uber Trip Analysis**](https://github.com/Piyu242005/Uber-Trip-Analysis-using-Machine-Learning) | Comprehensive EDA uncovering trip patterns & demand insights | `Python` `ML` `Visualization` |
+| 🏅 | [**Portfolio Website**](https://github.com/Piyu242005/Personal-Portfolio) | Modern retro-themed personal portfolio with animations | `HTML` `CSS` `JS` `Flask` |
+| 🏅 | [**CodSoft Internship**](https://github.com/Piyu242005/CODSOFT-INTERNSHIP-DATA-SCIENTIST) | Data Science internship projects & tasks | `Python` `ML` `EDA` |
 
 <!-- ═══════════════════════ DIVIDER ═══════════════════════ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -182,7 +192,7 @@ print(f"Hi! I'm {me.name} 👋")
 <br/><br/>
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Piyu242005&theme=radical&border_color=B565F5&color=FFFFFF&line=B565F5&point=FF6B6B&area_color=B565F5&area=true&hide_border=false&radius=12" width="96%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Piyu242005&bg_color=141321&color=A9FEF7&line=B565F5&point=F8D866&area_color=B565F5&area=true&hide_border=false&border_color=B565F5&title_color=FE428E&custom_title=Piyush's%20Contribution%20Graph" width="96%" />
 
 </div>
 
@@ -194,8 +204,8 @@ print(f"Hi! I'm {me.name} 👋")
 <div align="center">
 <br/>
 
-<!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=Piyu242005&theme=radical&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" width="90%" />
+<!-- GitHub Stats Summary -->
+<img src="https://github-contributor-stats.vercel.app/api?username=Piyu242005&limit=5&theme=radical&combine_all_yearly_contributions=true&border_color=B565F5" width="55%" />
 
 <br/><br/>
 
