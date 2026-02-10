@@ -139,25 +139,25 @@ print(f"Hi! I'm {me.name} 👋")
 <!-- ═══════════════════════ DIVIDER ═══════════════════════ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;**Featured Projects**
+## 👑 &nbsp;**Royal Featured Projects** 👑
 
 <div align="center">
 <br/>
 
 <a href="https://github.com/Piyu242005/Airline-Passenger-Satisfaction-Prediction">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Piyu242005&repo=Airline-Passenger-Satisfaction-Prediction&theme=radical&border_color=B565F5&border_radius=12&show_owner=true" width="47%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Piyu242005&repo=Airline-Passenger-Satisfaction-Prediction&bg_color=000000&title_color=FFD700&text_color=FFFFFF&icon_color=FFD700&border_color=FFD700&border_radius=12&show_owner=true" width="47%" />
 </a>&nbsp;&nbsp;
 <a href="https://github.com/Piyu242005/CODSOFT-INTERNSHIP-DATA-SCIENTIST">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Piyu242005&repo=CODSOFT-INTERNSHIP-DATA-SCIENTIST&theme=radical&border_color=B565F5&border_radius=12&show_owner=true" width="47%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Piyu242005&repo=CODSOFT-INTERNSHIP-DATA-SCIENTIST&bg_color=000000&title_color=FFD700&text_color=FFFFFF&icon_color=FFD700&border_color=FFD700&border_radius=12&show_owner=true" width="47%" />
 </a>
 
 <br/>
 
 <a href="https://github.com/Piyu242005/Uber-Trip-Analysis-using-Machine-Learning">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Piyu242005&repo=Uber-Trip-Analysis-using-Machine-Learning&theme=radical&border_color=B565F5&border_radius=12&show_owner=true" width="47%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Piyu242005&repo=Uber-Trip-Analysis-using-Machine-Learning&bg_color=000000&title_color=FFD700&text_color=FFFFFF&icon_color=FFD700&border_color=FFD700&border_radius=12&show_owner=true" width="47%" />
 </a>&nbsp;&nbsp;
 <a href="https://github.com/Piyu242005/Healthy-Life-Expectancy-HALE-Analysis">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Piyu242005&repo=Healthy-Life-Expectancy-HALE-Analysis&theme=radical&border_color=B565F5&border_radius=12&show_owner=true" width="47%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Piyu242005&repo=Healthy-Life-Expectancy-HALE-Analysis&bg_color=000000&title_color=FFD700&text_color=FFFFFF&icon_color=FFD700&border_color=FFD700&border_radius=12&show_owner=true" width="47%" />
 </a>
 
 <br/><br/>
@@ -166,12 +166,12 @@ print(f"Hi! I'm {me.name} 👋")
 
 | &nbsp; | Project | What It Does | Built With |
 |:---:|:--------|:-------------|:-----------|
-| 🥇 | [**Airline Passenger Satisfaction**](https://github.com/Piyu242005/Airline-Passenger-Satisfaction-Prediction) | ML model predicting passenger satisfaction with high accuracy | `Python` `Scikit-learn` `Pandas` `SHAP` |
-| 🥈 | [**Healthy Life Expectancy Analysis**](https://github.com/Piyu242005/Healthy-Life-Expectancy-HALE-Analysis) | In-depth analysis of global life expectancy trends & influencing factors | `Python` `Matplotlib` `Seaborn` `EDA` |
-| 🥉 | [**TCS Stock Data — Live & Latest**](https://github.com/Piyu242005/TCS-Stock-Data---Live-and-Latest) | Live stock data visualization pulled from real-time APIs | `Python` `REST API` `Pandas` |
-| 🏅 | [**Uber Trip Analysis**](https://github.com/Piyu242005/Uber-Trip-Analysis-using-Machine-Learning) | Comprehensive EDA uncovering trip patterns & demand insights | `Python` `ML` `Visualization` |
-| 🏅 | [**Portfolio Website**](https://github.com/Piyu242005/Personal-Portfolio) | Modern retro-themed personal portfolio with animations | `HTML` `CSS` `JS` `Flask` |
-| 🏅 | [**CodSoft Internship**](https://github.com/Piyu242005/CODSOFT-INTERNSHIP-DATA-SCIENTIST) | Data Science internship projects & tasks | `Python` `ML` `EDA` |
+| 🥇 | [**Airline Passenger Satisfaction**](https://github.com/Piyu242005/Airline-Passenger-Satisfaction-Prediction) | ML model predicting passenger satisfaction | <img src="https://img.shields.io/badge/Python-FFD700?style=for-the-badge&logo=python&logoColor=black" /> <img src="https://img.shields.io/badge/Scikit_Learn-FFD700?style=for-the-badge&logo=scikitlearn&logoColor=black" /> <img src="https://img.shields.io/badge/Pandas-FFD700?style=for-the-badge&logo=pandas&logoColor=black" /> |
+| 🥈 | [**Healthy Life Expectancy**](https://github.com/Piyu242005/Healthy-Life-Expectancy-HALE-Analysis) | Analysis of global life expectancy trends | <img src="https://img.shields.io/badge/Python-FFD700?style=for-the-badge&logo=python&logoColor=black" /> <img src="https://img.shields.io/badge/Matplotlib-FFD700?style=for-the-badge&logo=plotly&logoColor=black" /> <img src="https://img.shields.io/badge/Seaborn-FFD700?style=for-the-badge&logo=python&logoColor=black" /> |
+| 🥉 | [**TCS Stock Data**](https://github.com/Piyu242005/TCS-Stock-Data---Live-and-Latest) | Live stock data visualization via APIs | <img src="https://img.shields.io/badge/Python-FFD700?style=for-the-badge&logo=python&logoColor=black" /> <img src="https://img.shields.io/badge/REST_API-FFD700?style=for-the-badge&logoColor=black" /> <img src="https://img.shields.io/badge/Pandas-FFD700?style=for-the-badge&logo=pandas&logoColor=black" /> |
+| 🏅 | [**Uber Trip Analysis**](https://github.com/Piyu242005/Uber-Trip-Analysis-using-Machine-Learning) | EDA uncovering trip patterns & demand | <img src="https://img.shields.io/badge/Python-FFD700?style=for-the-badge&logo=python&logoColor=black" /> <img src="https://img.shields.io/badge/ML-FFD700?style=for-the-badge&logoColor=black" /> <img src="https://img.shields.io/badge/Visualization-FFD700?style=for-the-badge&logoColor=black" /> |
+| 🏅 | [**Portfolio Website**](https://github.com/Piyu242005/Personal-Portfolio) | Modern retro-themed personal portfolio | <img src="https://img.shields.io/badge/HTML5-FFD700?style=for-the-badge&logo=html5&logoColor=black" /> <img src="https://img.shields.io/badge/CSS3-FFD700?style=for-the-badge&logo=css3&logoColor=black" /> <img src="https://img.shields.io/badge/Flask-FFD700?style=for-the-badge&logo=flask&logoColor=black" /> |
+| 🏅 | [**CodSoft Internship**](https://github.com/Piyu242005/CODSOFT-INTERNSHIP-DATA-SCIENTIST) | Data Science internship projects & tasks | <img src="https://img.shields.io/badge/Python-FFD700?style=for-the-badge&logo=python&logoColor=black" /> <img src="https://img.shields.io/badge/ML-FFD700?style=for-the-badge&logoColor=black" /> <img src="https://img.shields.io/badge/EDA-FFD700?style=for-the-badge&logoColor=black" /> |
 
 <!-- ═══════════════════════ DIVIDER ═══════════════════════ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
