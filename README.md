@@ -199,50 +199,45 @@ print(f"Hi! I'm {me.name} 👋")
 <!-- ═══════════════════════ DIVIDER ═══════════════════════ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🏆 &nbsp;**Achievements & Certifications**
+## 👑 &nbsp;**Royal Achievements & Certifications** 👑
 
 <div align="center">
 <br/>
-
-
-
-
-<br/><br/>
 
 </div>
 
+<table align="center" width="90%">
+  <thead>
+    <tr>
+      <th align="center" width="50%"><strong>⚜️ AI & Generative AI</strong></th>
+      <th align="center" width="50%"><strong>⚜️ Data Science & Python</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" valign="top">
+        <br>
+        <img src="https://img.shields.io/badge/IBM-Generative%20AI%20Essentials-FFD700?style=for-the-badge&logo=ibm&logoColor=black" /><br/>
+        <img src="https://img.shields.io/badge/IBM-Introduction%20to%20RAG-FFD700?style=for-the-badge&logo=ibm&logoColor=black" /><br/>
+        <img src="https://img.shields.io/badge/DataCamp-Working%20with%20OpenAI%20API-FFD700?style=for-the-badge&logo=datacamp&logoColor=black" /><br/>
+        <img src="https://img.shields.io/badge/DataCamp-Prompt%20Engineering-FFD700?style=for-the-badge&logo=datacamp&logoColor=black" />
+        <br>
+      </td>
+      <td align="center" valign="top">
+        <br>
+        <img src="https://img.shields.io/badge/CodeWithHarry-Data%20Scientist-FFD700?style=for-the-badge&logo=youtube&logoColor=black" /><br/>
+        <img src="https://img.shields.io/badge/CodeWithHarry-Python%20Bootcamp-FFD700?style=for-the-badge&logo=python&logoColor=black" />
+        <br>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 <div align="center">
 
-#### 📜 Professional Certifications
-
 <br/>
 
-**🤖 AI & Generative AI**
-
-<br/>
-
-<img src="https://img.shields.io/badge/IBM-Generative%20AI%20Essentials-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
-<img src="https://img.shields.io/badge/IBM-Introduction%20to%20RAG-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
-<img src="https://img.shields.io/badge/DataCamp-Working%20with%20OpenAI%20API-03EF62?style=for-the-badge&logo=datacamp&logoColor=black" />
-<img src="https://img.shields.io/badge/DataCamp-Prompt%20Engineering-03EF62?style=for-the-badge&logo=datacamp&logoColor=black" />
-
-<br/><br/>
-
-**📊 Data Science & Python**
-
-<br/>
-
-<img src="https://img.shields.io/badge/CodeWithHarry-Data%20Scientist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-<img src="https://img.shields.io/badge/CodeWithHarry-Python%20Bootcamp-FF0000?style=for-the-badge&logo=python&logoColor=white" />
-
-</div>
-
-<div align="center">
-
-<br/>
-
-<img src="https://img.shields.io/badge/🎓_Total_Certifications-6-B565F5?style=for-the-badge&labelColor=1a1b27" />
+<img src="https://img.shields.io/badge/🎓_Total_Certifications-6-FFD700?style=for-the-badge&labelColor=black&color=FFD700" />
 
 </div>
 
