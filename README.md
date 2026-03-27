@@ -141,27 +141,6 @@ print(f"Hi! I'm {me.name} 👋")
 
 ## 👑 &nbsp;**Royal Featured Projects** 👑
 
-<div align="center">
-<br/>
-
-<a href="https://github.com/Piyu242005/Airline-Passenger-Satisfaction-Prediction">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Piyu242005&repo=Airline-Passenger-Satisfaction-Prediction&bg_color=000000&title_color=FFD700&text_color=FFFFFF&icon_color=FFD700&border_color=FFD700&border_radius=12&show_owner=true" width="47%" />
-</a>&nbsp;&nbsp;
-<a href="https://github.com/Piyu242005/CODSOFT-INTERNSHIP-DATA-SCIENTIST">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Piyu242005&repo=CODSOFT-INTERNSHIP-DATA-SCIENTIST&bg_color=000000&title_color=FFD700&text_color=FFFFFF&icon_color=FFD700&border_color=FFD700&border_radius=12&show_owner=true" width="47%" />
-</a>
-
-<br/>
-
-<a href="https://github.com/Piyu242005/Uber-Trip-Analysis-using-Machine-Learning">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Piyu242005&repo=Uber-Trip-Analysis-using-Machine-Learning&bg_color=000000&title_color=FFD700&text_color=FFFFFF&icon_color=FFD700&border_color=FFD700&border_radius=12&show_owner=true" width="47%" />
-</a>&nbsp;&nbsp;
-<a href="https://github.com/Piyu242005/Healthy-Life-Expectancy-HALE-Analysis">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Piyu242005&repo=Healthy-Life-Expectancy-HALE-Analysis&bg_color=000000&title_color=FFD700&text_color=FFFFFF&icon_color=FFD700&border_color=FFD700&border_radius=12&show_owner=true" width="47%" />
-</a>
-
-<br/><br/>
-
 </div>
 
 | &nbsp; | Project | What It Does | Built With |
@@ -262,35 +241,6 @@ print(f"Hi! I'm {me.name} 👋")
 <!-- ═══════════════════════ DIVIDER ═══════════════════════ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 👑 &nbsp;**Royal 2026 Roadmap** 👑
-
-<div align="center">
-<br/>
-
-```
-   ╔══════════════════════════════════════════════════════════╗
-   ║                   🚀  2026 GOALS  🚀                    ║
-   ╠══════════════════════════════════════════════════════════╣
-   ║  🔬  Build 5+ end-to-end ML projects    ██████░░  75%   ║
-   ║  📝  Publish data science case studies   █████░░░  60%   ║
-   ║  🏆  Compete on Kaggle                  ████░░░░  50%   ║
-   ║  🌐  Deploy ML models to production     ███░░░░░  40%   ║
-   ║  🤝  Contribute to open-source          ██░░░░░░  25%   ║
-   ╚══════════════════════════════════════════════════════════╝
-```
-
-</div>
-
-| Goal | Status | Progress |
-|:-----|:------:|:--------:|
-| 🔬 Build 5+ end-to-end ML projects | <img src="https://img.shields.io/badge/In_Progress-FFD700?style=for-the-badge&labelColor=black&logoColor=black" /> | <img src="https://img.shields.io/badge/75%25-FFD700?style=for-the-badge&labelColor=black&logoColor=black" /> |
-| 📝 Publish data science case studies | <img src="https://img.shields.io/badge/Documenting-FFD700?style=for-the-badge&labelColor=black&logoColor=black" /> | <img src="https://img.shields.io/badge/60%25-FFD700?style=for-the-badge&labelColor=black&logoColor=black" /> |
-| 🏆 Participate in Kaggle competitions | <img src="https://img.shields.io/badge/Active-FFD700?style=for-the-badge&labelColor=black&logoColor=black&logo=kaggle" /> | <img src="https://img.shields.io/badge/50%25-FFD700?style=for-the-badge&labelColor=black&logoColor=black" /> |
-| 🌐 Deploy ML models to production | <img src="https://img.shields.io/badge/Learning-FFD700?style=for-the-badge&labelColor=black&logoColor=black" /> | <img src="https://img.shields.io/badge/40%25-FFD700?style=for-the-badge&labelColor=black&logoColor=black" /> |
-| 🤝 Contribute to open-source projects | <img src="https://img.shields.io/badge/Starting-FFD700?style=for-the-badge&labelColor=black&logoColor=black" /> | <img src="https://img.shields.io/badge/25%25-FFD700?style=for-the-badge&labelColor=black&logoColor=black" /> |
-
-<!-- ═══════════════════════ DIVIDER ═══════════════════════ -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🤝 &nbsp;**Let's Connect**
 
