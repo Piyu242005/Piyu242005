@@ -155,25 +155,6 @@ print(f"Hi! I'm {me.name} 👋")
 <!-- ═══════════════════════ DIVIDER ═══════════════════════ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📊 &nbsp;**GitHub Analytics**
-
-<div align="center">
-<br/>
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Piyu242005&show_icons=true&theme=radical&border_color=B565F5&border_radius=12&include_all_commits=true&count_private=true&icon_color=F8D866" width="48%" />
-&nbsp;
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Piyu242005&layout=compact&theme=radical&border_color=B565F5&border_radius=12&langs_count=8&card_width=320" width="40%" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Piyu242005&theme=radical&border=B565F5&ring=B565F5&fire=FF6B6B&currStreakLabel=B565F5&sideLabels=F8D866&border_radius=12" width="58%" />
-
-<br/><br/>
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Piyu242005&bg_color=141321&color=A9FEF7&line=B565F5&point=F8D866&area_color=B565F5&area=true&hide_border=false&border_color=B565F5&title_color=FE428E&custom_title=Piyush's%20Contribution%20Graph" width="96%" />
-
-</div>
 
 <!-- ═══════════════════════ DIVIDER ═══════════════════════ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
