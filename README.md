@@ -35,8 +35,11 @@ A **cutting-edge, dark-themed** centralized portfolio showcasing my professional
 ## 📊 GitHub Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Piyu242005&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyu242005&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=Piyu242005&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&cache_seconds=1800" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyu242005&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&cache_seconds=1800" width="48%" />
+
 </div>
 
 <br/>
@@ -48,7 +51,7 @@ A **cutting-edge, dark-themed** centralized portfolio showcasing my professional
 | # | Project | Description | Stack | Business Impact / Highlights |
 |:-:|---------|-------------|:-----:|:----------------------------|
 | 🤖 | [**RAG-Based AI**](https://github.com/Piyu242005/RAG-Based-AI) | Intelligent document Q&A system using Retrieval-Augmented Generation | `AI` `RAG` `LLMs` | **Designed scalable architecture** for precise and context-aware document retrieval |
-| ✈️ | [**Airline Satisfaction**](https://github.com/Piyu242005/Airline-Passenger-Satisfaction-Prediction) | Predictive modeling to forecast passenger satisfaction levels | `ML` `Classification` | **Achieved 95%+ accuracy**, successfully identifying key drivers of customer churn |
+| 🌍 | [**Green Destinations Attrition Analysis**](https://github.com/Piyu242005/Green-Destinations-Employee-Attrition-Analysis) | ML-powered HR analytics system for predicting employee attrition and enabling data-driven retention strategies | `ML` `Classification` `Streamlit` | **Developed end-to-end pipeline with SMOTE & Random Forest, delivering real-time risk prediction and actionable business insights** |
 | 📈 | [**TCS Stock Analysis**](https://github.com/Piyu242005/TCS-Stock-Data---Live-and-Latest) | Real-time stock data analytics and interactive visualizations | `Finance` `Analytics` | **Analyzed massive datasets** for trend forecasting and market insight generation |
 | 👥 | [**Employee Attrition**](https://github.com/Piyu242005/Green-Destinations-Employee-Attrition-Analysis) | HR analytics focused on exploratory data analysis for predicting attrition | `EDA` `Python` | **Identified critical retention factors** using advanced statistical analysis |
 | 🐍 | [**Advanced Python Solutions**](https://github.com/Piyu242005/Advanced-Python-Project-Ideas-for-Real-World-Applications) | Collection of advanced Python tools and automated workflows | `Python` `Automation` | **Developed 6+ secure & automated tools**, including encryption and scraping |
@@ -61,43 +64,67 @@ A **cutting-edge, dark-themed** centralized portfolio showcasing my professional
 
 <div align="center">
 
-**🔬 Data Science & Machine Learning**
+### 🧠 Data Science & Machine Learning
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-<br/>
-`Predictive Modeling` `Statistical Analysis` `Model Deployment`
+<p>
+  <code>Predictive Modeling</code>
+  <code>Statistical Analysis</code>
+  <code>Model Deployment</code>
+</p>
 
-<br/>
+---
 
-**📊 Data Analysis & Visualization**
+### 📊 Data Analysis & Visualization
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
+</p>
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-<br/>
-`Exploratory Data Analysis (EDA)` `Data Wrangling` `A/B Testing`
+<p>
+  <code>EDA</code>
+  <code>Data Wrangling</code>
+  <code>A/B Testing</code>
+</p>
 
-<br/>
+---
 
-**🧠 Artificial Intelligence & NLP**
+### 🤖 AI & NLP
+<p>
+  <code>Deep Learning</code>
+  <code>LLMs</code>
+  <code>NLP</code>
+  <code>RAG</code>
+  <code>Generative AI</code>
+  <code>Prompt Engineering</code>
+  <code>Feature Engineering</code>
+  <code>NLTK</code>
+  <code>spaCy</code>
+</p>
 
-`Deep Learning` `Large Language Models (LLMs)` `Natural Language Processing (NLP)` `Retrieval-Augmented Generation (RAG)` `Generative AI` `Prompt Engineering` `Feature Engineering` `NLTK` `spaCy`
+---
 
-<br/>
+### 🛠️ Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+</p>
 
-**🔧 Developer Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-<br/>
-`REST APIs` `Agile Methodologies` `Version Control`
+<p>
+  <code>REST APIs</code>
+  <code>Agile</code>
+  <code>Version Control</code>
+</p>
 
 </div>
 
