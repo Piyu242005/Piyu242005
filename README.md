@@ -130,40 +130,7 @@ A **cutting-edge, dark-themed** centralized portfolio showcasing my professional
 
 <br/>
 
-## ✨ Portfolio UI/UX Highlights
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🎨 Design & Aesthetics
-- 🌑 **Premium Dark Theme** with lime & violet accents
-- ✨ **Custom Cursor** with glowing dot + trailing ring
-- 🌊 **SVG Wave Dividers** between sections
-- 🔤 **Cinematic Hero Animation** — staggered word reveal
-- 🎯 **3D Tilt Effect** on project cards
-- 🧲 **Magnetic Hover** on CTA buttons
-- 🎆 **Floating Particles** in hero background
-- 📱 **Fully Responsive** — mobile to 4K
-
-</td>
-<td width="50%" valign="top">
-
-### ⚡ Sections & Flow
-- 🏠 **Hero** — animated text + floating tech badges
--  **Stats Counter** — animated numbers on scroll
-- 📂 **Projects** — 4 featured repos with 3D cards
-- 🛠️ **Skills** — staggered icon cascade animation
--  **Experience** — timeline with hover effects
-- 🏆 **Certifications** — 6 verified credentials
-- 📸 **Memories** — infinite scrolling gallery
--  **Retro Contact** — Nokia-style device UI
-- 🚀 **Let's Work Together** — gradient CTA section
-
-</td>
-</tr>
-</table>
-
+---
 
 ## 📧 Let's Connect & Collaborate
 
