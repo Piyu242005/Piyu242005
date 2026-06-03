@@ -9,7 +9,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Live_Portfolio-Visit_Now-c8ff00?style=for-the-badge&logoColor=white)](https://piyu242005.github.io/Piyu-Portfolio-Website/)
+[![Portfolio](https://img.shields.io/badge/🌐_Live_Portfolio-Visit_Now-c8ff00?style=for-the-badge&logoColor=white)](https://piyu24.me/)
 [![GitHub](https://img.shields.io/badge/GitHub-Piyu242005-181717?style=for-the-badge&logo=github)](https://github.com/Piyu242005)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/piyush-ramteke-24-mylife)
 [![Email](https://img.shields.io/badge/Email-Say_Hi!-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:piyu.143247@gmail.com)
