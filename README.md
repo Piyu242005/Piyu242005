@@ -1,7 +1,12 @@
 <div align="center">
 
 <!-- Cinematic AI-Themed Hero -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Piyush%20Ramteke&fontSize=50&fontColor=FF0000&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20ML%20Developer&descSize=20&descAlignY=55" width="100%" />
+<h1 align="center" style="color: #ffffff; font-weight: 800; font-size: 42px; letter-spacing: 2px;">
+  <span style="color: #FF0000;">Piyush</span> Ramteke
+</h1>
+<h3 align="center" style="color: #a3a3a3; font-weight: 400; font-size: 20px; letter-spacing: 1px;">
+  AI Engineer <span style="color: #FF0000;">&bull;</span> Data Scientist <span style="color: #FF0000;">&bull;</span> ML Developer
+</h3>
 
 <br/>
 
