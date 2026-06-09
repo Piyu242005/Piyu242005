@@ -147,12 +147,7 @@
 
 <br/><br/>
 
-<!-- GitHub Trophies -->
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=Piyu242005&theme=blood&no-frame=true&no-bg=true&margin-w=15&title=Trophies" alt="Piyu242005 Trophies" />
-</a>
 
-<br/><br/>
 
 <!-- GitHub Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Piyu242005&theme=dark&hide_border=true&bg_color=000000&color=FF0000&line=FF0000&point=FF0000" width="100%" />
