@@ -11,7 +11,6 @@
 
 [![Portfolio](https://img.shields.io/badge/Live_Portfolio-Enterprise_Grade-FF0000?style=for-the-badge&logoColor=white&color=0d1117&labelColor=FF0000)](https://piyu24.me/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/piyush-ramteke-24-mylife)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/Piyu242005)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:piyu.143247@gmail.com)
 
 </div>
@@ -90,57 +89,48 @@
 
 ## ⚡ Technical Expertise
 
-<table width="100%">
-  <tr>
-    <td width="33%" valign="top">
-      <h3>🤖 AI Engineering</h3>
-      <img src="https://img.shields.io/badge/LLMs-FF0000?style=flat-square&logoColor=white&color=0d1117&labelColor=FF0000"/><br/>
-      <img src="https://img.shields.io/badge/RAG-FF0000?style=flat-square&logoColor=white&color=0d1117&labelColor=FF0000"/><br/>
-      <img src="https://img.shields.io/badge/LangChain-FF0000?style=flat-square&logoColor=white&color=0d1117&labelColor=FF0000"/><br/>
-      <img src="https://img.shields.io/badge/Prompt_Engineering-FF0000?style=flat-square&logoColor=white&color=0d1117&labelColor=FF0000"/><br/>
-      <img src="https://img.shields.io/badge/Multi--Agent_Systems-FF0000?style=flat-square&logoColor=white&color=0d1117&labelColor=FF0000"/>
-    </td>
-    <td width="33%" valign="top">
-      <h3>⚙️ Machine Learning</h3>
-      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/XGBoost-189FDD?style=flat-square&logo=xgboost&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-    </td>
-    <td width="33%" valign="top">
-      <h3>📊 Data Science</h3>
-      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black"/><br/>
-      <img src="https://img.shields.io/badge/EDA-4B8BBE?style=flat-square&logo=python&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>🐳 DevOps</h3>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/CI/CD-FF0000?style=flat-square&logoColor=white&color=0d1117&labelColor=FF0000"/><br/>
-      <img src="https://img.shields.io/badge/Monitoring-FF0000?style=flat-square&logoColor=white&color=0d1117&labelColor=FF0000"/>
-    </td>
-    <td width="33%" valign="top">
-      <h3>☁️ Cloud & Backend</h3>
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/REST_APIs-FF0000?style=flat-square&logoColor=white&color=0d1117&labelColor=FF0000"/>
-    </td>
-    <td width="33%" valign="top">
-      <h3>🎯 Current Focus</h3>
-      <p>🔭 <b>Building Production AI Systems</b></p>
-      <p>🌱 <b>Learning Advanced MLOps</b></p>
-      <p>🚀 <b>Exploring Multi-Agent Architectures</b></p>
-      <p>☁️ <b>Cloud Native AI Infrastructure</b></p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+### 🤖 AI Engineering
+<img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge&logoColor=FF0000"/>
+<img src="https://img.shields.io/badge/RAG-000000?style=for-the-badge&logoColor=FF0000"/>
+<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logoColor=FF0000"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-000000?style=for-the-badge&logoColor=FF0000"/>
+<img src="https://img.shields.io/badge/Multi--Agent_Systems-000000?style=for-the-badge&logoColor=FF0000"/>
+
+<br/>
+
+### ⚙️ Machine Learning
+<img src="https://img.shields.io/badge/Scikit--Learn-000000?style=for-the-badge&logo=scikit-learn&logoColor=FF0000"/>
+<img src="https://img.shields.io/badge/XGBoost-000000?style=for-the-badge&logo=xgboost&logoColor=FF0000"/>
+<img src="https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=FF0000"/>
+<img src="https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=FF0000"/>
+
+<br/>
+
+### 📊 Data Science
+<img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=FF0000"/>
+<img src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=FF0000"/>
+<img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=FF0000"/>
+<img src="https://img.shields.io/badge/Power_BI-000000?style=for-the-badge&logo=power-bi&logoColor=FF0000"/>
+<img src="https://img.shields.io/badge/EDA-000000?style=for-the-badge&logo=python&logoColor=FF0000"/>
+
+<br/>
+
+### 🐳 DevOps & Cloud
+<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=FF0000"/>
+<img src="https://img.shields.io/badge/Kubernetes-000000?style=for-the-badge&logo=kubernetes&logoColor=FF0000"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=github-actions&logoColor=FF0000"/>
+<img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=FF0000"/>
+<img src="https://img.shields.io/badge/CI/CD-000000?style=for-the-badge&logoColor=FF0000"/>
+
+<br/>
+
+### 🎯 Current Focus
+<p>🔭 <b>Building Production AI Systems</b> &nbsp;|&nbsp; 🌱 <b>Learning Advanced MLOps</b></p>
+<p>🚀 <b>Exploring Multi-Agent Architectures</b> &nbsp;|&nbsp; ☁️ <b>Cloud Native AI Infrastructure</b></p>
+
+</div>
 
 <br/>
 
@@ -177,7 +167,6 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Explore_My_Work-FF0000?style=for-the-badge&logoColor=white&color=0d1117&labelColor=FF0000)](https://piyu24.me/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/piyush-ramteke-24-mylife)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/Piyu242005)
 [![Email](https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:piyu.143247@gmail.com)
 
 <br/>
