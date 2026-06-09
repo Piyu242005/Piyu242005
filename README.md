@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Cinematic AI-Themed Hero -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0000FF,8A2BE2&height=200&section=header&text=Piyush%20Ramteke&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20ML%20Developer&descSize=20&descAlignY=55" width="100%" />
+<img src="Piyu%20Futuristic%20AI%20developer%20portfolio%20banner.png" width="100%" alt="Piyush Ramteke - Futuristic AI Developer Banner" />
 
 <br/>
 
