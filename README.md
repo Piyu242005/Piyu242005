@@ -1,15 +1,15 @@
 <div align="center">
 
 <!-- Cinematic AI-Themed Hero -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Piyush%20Ramteke&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20ML%20Developer&descSize=20&descAlignY=55" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,0,0&height=200&section=header&text=Piyush%20Ramteke&fontSize=50&fontColor=FF0000&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20ML%20Developer&descSize=20&descAlignY=55" width="100%" />
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&color=00FF9D&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=900&height=50&lines=Building+Production-Grade+AI+Systems;Developing+Multi-LLM+Applications;Architecting+Intelligent+Data+Products" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=900&height=50&lines=Building+Production-Grade+AI+Systems;Developing+Multi-LLM+Applications;Architecting+Intelligent+Data+Products" alt="Typing SVG" />
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Live_Portfolio-Enterprise_Grade-00FF9D?style=for-the-badge&logoColor=black&color=0d1117&labelColor=00FF9D)](https://piyu24.me/)
+[![Portfolio](https://img.shields.io/badge/Live_Portfolio-Enterprise_Grade-FF0000?style=for-the-badge&logoColor=white&color=0d1117&labelColor=FF0000)](https://piyu24.me/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/piyush-ramteke-24-mylife)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/Piyu242005)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:piyu.143247@gmail.com)
@@ -83,7 +83,7 @@
 ## 🧠 Architecture Mindset
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF9D&center=true&vCenter=true&multiline=false&width=750&height=40&lines=Data+→+Intelligence+→+Prediction+→+Automation+→+Business+Impact" alt="Architecture Mindset Flow" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=FF0000&center=true&vCenter=true&multiline=false&width=750&height=40&lines=Data+→+Intelligence+→+Prediction+→+Automation+→+Business+Impact" alt="Architecture Mindset Flow" />
 </div>
 
 <br/>
@@ -94,11 +94,11 @@
   <tr>
     <td width="33%" valign="top">
       <h3>🤖 AI Engineering</h3>
-      <img src="https://img.shields.io/badge/LLMs-00FF9D?style=flat-square&logoColor=black&color=0d1117&labelColor=00FF9D"/><br/>
-      <img src="https://img.shields.io/badge/RAG-00FF9D?style=flat-square&logoColor=black&color=0d1117&labelColor=00FF9D"/><br/>
-      <img src="https://img.shields.io/badge/LangChain-00FF9D?style=flat-square&logoColor=black&color=0d1117&labelColor=00FF9D"/><br/>
-      <img src="https://img.shields.io/badge/Prompt_Engineering-00FF9D?style=flat-square&logoColor=black&color=0d1117&labelColor=00FF9D"/><br/>
-      <img src="https://img.shields.io/badge/Multi--Agent_Systems-00FF9D?style=flat-square&logoColor=black&color=0d1117&labelColor=00FF9D"/>
+      <img src="https://img.shields.io/badge/LLMs-FF0000?style=flat-square&logoColor=white&color=0d1117&labelColor=FF0000"/><br/>
+      <img src="https://img.shields.io/badge/RAG-FF0000?style=flat-square&logoColor=white&color=0d1117&labelColor=FF0000"/><br/>
+      <img src="https://img.shields.io/badge/LangChain-FF0000?style=flat-square&logoColor=white&color=0d1117&labelColor=FF0000"/><br/>
+      <img src="https://img.shields.io/badge/Prompt_Engineering-FF0000?style=flat-square&logoColor=white&color=0d1117&labelColor=FF0000"/><br/>
+      <img src="https://img.shields.io/badge/Multi--Agent_Systems-FF0000?style=flat-square&logoColor=white&color=0d1117&labelColor=FF0000"/>
     </td>
     <td width="33%" valign="top">
       <h3>⚙️ Machine Learning</h3>
@@ -122,15 +122,15 @@
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/><br/>
       <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/><br/>
       <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/CI/CD-00FF9D?style=flat-square&logoColor=black&color=0d1117&labelColor=00FF9D"/><br/>
-      <img src="https://img.shields.io/badge/Monitoring-00FF9D?style=flat-square&logoColor=black&color=0d1117&labelColor=00FF9D"/>
+      <img src="https://img.shields.io/badge/CI/CD-FF0000?style=flat-square&logoColor=white&color=0d1117&labelColor=FF0000"/><br/>
+      <img src="https://img.shields.io/badge/Monitoring-FF0000?style=flat-square&logoColor=white&color=0d1117&labelColor=FF0000"/>
     </td>
     <td width="33%" valign="top">
       <h3>☁️ Cloud & Backend</h3>
       <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/><br/>
       <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/><br/>
       <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/REST_APIs-00FF9D?style=flat-square&logoColor=black&color=0d1117&labelColor=00FF9D"/>
+      <img src="https://img.shields.io/badge/REST_APIs-FF0000?style=flat-square&logoColor=white&color=0d1117&labelColor=FF0000"/>
     </td>
     <td width="33%" valign="top">
       <h3>🎯 Current Focus</h3>
@@ -148,24 +148,24 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Piyu242005&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&cache_seconds=1800&title_color=00FF9D" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyu242005&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&cache_seconds=1800&title_color=00FF9D" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Piyu242005&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=FF0000&icon_color=FF0000&text_color=ffffff&cache_seconds=1800" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyu242005&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=FF0000&text_color=ffffff&cache_seconds=1800" width="48%" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Piyu242005&theme=radical&hide_border=true&background=0d1117&ring=00FF9D&fire=00FF9D&currStreakNum=00FF9D" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Piyu242005&theme=dark&hide_border=true&background=0d1117&ring=FF0000&fire=FF0000&currStreakNum=FF0000&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" width="48%" />
 
 <br/><br/>
 
 <!-- GitHub Trophies -->
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=Piyu242005&theme=radical&no-frame=true&no-bg=true&margin-w=15&title=Trophies" alt="Piyu242005 Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Piyu242005&theme=blood&no-frame=true&no-bg=true&margin-w=15&title=Trophies" alt="Piyu242005 Trophies" />
 </a>
 
 <br/><br/>
 
 <!-- GitHub Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Piyu242005&theme=radical&hide_border=true&bg_color=0d1117&color=00FF9D" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Piyu242005&theme=dark&hide_border=true&bg_color=0d1117&color=FF0000&line=FF0000&point=FF0000" width="100%" />
 
 </div>
 
@@ -175,17 +175,17 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Explore_My_Work-00FF9D?style=for-the-badge&logoColor=black&color=0d1117&labelColor=00FF9D)](https://piyu24.me/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore_My_Work-FF0000?style=for-the-badge&logoColor=white&color=0d1117&labelColor=FF0000)](https://piyu24.me/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/piyush-ramteke-24-mylife)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/Piyu242005)
 [![Email](https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:piyu.143247@gmail.com)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,0,0&height=100&section=footer" width="100%" />
 
-Made with 💚 by **Piyush Ramteke** © 2026
+Made with ❤️ by **Piyush Ramteke** © 2026
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=Piyu242005%2FPiyu-Portfolio-Website&countColor=%2300FF9D)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=Piyu242005%2FPiyu-Portfolio-Website&countColor=%23FF0000)
 
 </div>
