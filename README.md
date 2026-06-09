@@ -8,6 +8,9 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=900&height=50&lines=Building+Production-Grade+AI+Systems;Developing+Multi-LLM+Applications;Architecting+Intelligent+Data+Products" alt="Typing SVG" />
 
 <br/>
+<h3 align="center" style="color: #a3a3a3; font-weight: 400; font-size: 20px; letter-spacing: 1px;">
+  AI Engineer <span style="color: #FF0000;">&bull;</span> Data Scientist <span style="color: #FF0000;">&bull;</span> Python Developer
+</h3>
 
 [![Portfolio](https://img.shields.io/badge/Live_Portfolio-Enterprise_Grade-000000?style=for-the-badge&logo=google-chrome&logoColor=FF0000&color=000000&labelColor=000000)](https://piyu24.me/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-000000?style=for-the-badge&logo=linkedin&logoColor=FF0000&color=000000&labelColor=000000)](https://www.linkedin.com/in/piyush-ramteke-24-mylife)
