@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Cinematic AI-Themed Hero -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,0,0&height=200&section=header&text=Piyush%20Ramteke&fontSize=50&fontColor=FF0000&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20ML%20Developer&descSize=20&descAlignY=55" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Piyush%20Ramteke&fontSize=50&fontColor=FF0000&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20ML%20Developer&descSize=20&descAlignY=55" width="100%" />
 
 <br/>
 
@@ -9,9 +9,9 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Live_Portfolio-Enterprise_Grade-FF0000?style=for-the-badge&logoColor=white&color=0d1117&labelColor=FF0000)](https://piyu24.me/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/piyush-ramteke-24-mylife)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:piyu.143247@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Live_Portfolio-Enterprise_Grade-000000?style=for-the-badge&logo=google-chrome&logoColor=FF0000&color=000000&labelColor=000000)](https://piyu24.me/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-000000?style=for-the-badge&logo=linkedin&logoColor=FF0000&color=000000&labelColor=000000)](https://www.linkedin.com/in/piyush-ramteke-24-mylife)
+[![Email](https://img.shields.io/badge/Email-Contact-000000?style=for-the-badge&logo=gmail&logoColor=FF0000&color=000000&labelColor=000000)](mailto:piyu.143247@gmail.com)
 
 </div>
 
@@ -138,12 +138,12 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Piyu242005&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=FF0000&icon_color=FF0000&text_color=ffffff&cache_seconds=1800" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyu242005&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=FF0000&text_color=ffffff&cache_seconds=1800" width="48%" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Piyu242005&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FF0000&icon_color=FF0000&text_color=ffffff&cache_seconds=1800" width="48%" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Piyu242005&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=FF0000&text_color=ffffff&cache_seconds=1800" width="48%" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Piyu242005&theme=dark&hide_border=true&background=0d1117&ring=FF0000&fire=FF0000&currStreakNum=FF0000&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Piyu242005&theme=dark&hide_border=true&background=000000&ring=FF0000&fire=FF0000&currStreakNum=FF0000&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" width="48%" />
 
 <br/><br/>
 
@@ -155,7 +155,7 @@
 <br/><br/>
 
 <!-- GitHub Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Piyu242005&theme=dark&hide_border=true&bg_color=0d1117&color=FF0000&line=FF0000&point=FF0000" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Piyu242005&theme=dark&hide_border=true&bg_color=000000&color=FF0000&line=FF0000&point=FF0000" width="100%" />
 
 </div>
 
@@ -165,13 +165,13 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Explore_My_Work-FF0000?style=for-the-badge&logoColor=white&color=0d1117&labelColor=FF0000)](https://piyu24.me/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/piyush-ramteke-24-mylife)
-[![Email](https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:piyu.143247@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore_My_Work-000000?style=for-the-badge&logo=google-chrome&logoColor=FF0000&color=000000&labelColor=000000)](https://piyu24.me/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-000000?style=for-the-badge&logo=linkedin&logoColor=FF0000&color=000000&labelColor=000000)](https://www.linkedin.com/in/piyush-ramteke-24-mylife)
+[![Email](https://img.shields.io/badge/Email-Reach_Out-000000?style=for-the-badge&logo=gmail&logoColor=FF0000&color=000000&labelColor=000000)](mailto:piyu.143247@gmail.com)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,0,0&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer" width="100%" />
 
 Made with ❤️ by **Piyush Ramteke** © 2026
 
