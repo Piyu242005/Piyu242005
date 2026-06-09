@@ -1,158 +1,191 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Piyush%20Ramteke&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Scientist%20%7C%20AI%20Engineer%20%7C%20Python%20Developer&descSize=18&descAlignY=52" width="100%" />
+<!-- Cinematic AI-Themed Hero -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Piyush%20Ramteke&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20ML%20Developer&descSize=20&descAlignY=55" width="100%" />
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=C8FF00&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=800&height=50&lines=Transforming+Data+Into+Intelligence+%F0%9F%A7%A0;Building+AI-Powered+Solutions+%F0%9F%9A%80;Machine+Learning+%7C+NLP+%7C+Gen+AI+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&color=00FF9D&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=900&height=50&lines=Building+Production-Grade+AI+Systems;Developing+Multi-LLM+Applications;Architecting+Intelligent+Data+Products" alt="Typing SVG" />
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Live_Portfolio-Visit_Now-c8ff00?style=for-the-badge&logoColor=white)](https://piyu24.me/)
-[![GitHub](https://img.shields.io/badge/GitHub-Piyu242005-181717?style=for-the-badge&logo=github)](https://github.com/Piyu242005)
+[![Portfolio](https://img.shields.io/badge/Live_Portfolio-Enterprise_Grade-00FF9D?style=for-the-badge&logoColor=black&color=0d1117&labelColor=00FF9D)](https://piyu24.me/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/piyush-ramteke-24-mylife)
-[![Email](https://img.shields.io/badge/Email-Say_Hi!-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:piyu.143247@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/Piyu242005)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:piyu.143247@gmail.com)
 
 </div>
 
 <br/>
 
-## 👨‍💻 Professional Summary
+## 🦅 Professional Summary
 
-> **Data Scientist | AI Engineer | Python Developer**
-> 
-> Passionate about transforming complex data into actionable intelligence. With expertise in **Machine Learning**, **Predictive Modeling**, and **Generative AI**, I build scalable, high-impact solutions. I specialize in designing intelligent architectures, performing in-depth **Exploratory Data Analysis (EDA)**, and deploying robust AI systems that drive measurable business value.
-
-<br/>
-
-## 🎯 About This Portfolio
-
-A **cutting-edge, dark-themed** centralized portfolio showcasing my professional journey, projects, and skills. Built with modern web technologies, it features **20+ micro-interactions**, **3D effects**, and **cinematic animations** — designed to leave a lasting impression while maintaining high performance and responsiveness.
+> **AI Engineer | Machine Learning Specialist | Data Scientist**
+>
+> Designing and deploying **production-grade AI systems** that transform raw data into measurable business value. With a strong foundation in **Machine Learning**, **MLOps**, and **Cloud Deployment**, I architect scalable solutions ranging from multi-LLM platforms to high-performance predictive engines. My focus lies at the intersection of advanced AI engineering and enterprise business strategy, ensuring robust, cloud-native deployments that drive automation and actionable intelligence.
 
 <br/>
 
-## 📊 GitHub Metrics
+## 📊 Recruiter Dashboard : Key Metrics
+
+<div align="center">
+  <table align="center" style="border: none; width: 100%; text-align: center;">
+    <tr>
+      <td align="center" width="33%">
+        <h3>🚀 30+</h3>
+        <p><b>Projects Built</b></p>
+      </td>
+      <td align="center" width="33%">
+        <h3>🧠 10+</h3>
+        <p><b>AI Systems</b></p>
+      </td>
+      <td align="center" width="33%">
+        <h3>⚙️ 5+</h3>
+        <p><b>End-to-End ML Apps</b></p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="33%">
+        <h3>💬 Multi-LLM</h3>
+        <p><b>Platforms Built</b></p>
+      </td>
+      <td align="center" width="33%">
+        <h3>🐳 Docker & K8s</h3>
+        <p><b>Container Orchestration</b></p>
+      </td>
+      <td align="center" width="33%">
+        <h3>🔄 CI/CD</h3>
+        <p><b>Pipelines & Monitoring</b></p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+## 🏆 Featured Flagship Projects
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Piyu242005&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&cache_seconds=1800" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyu242005&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&cache_seconds=1800" width="48%" />
+| Project & Overview | Core Technologies & Architecture | Business Impact |
+|:---|:---|:---|
+| **[NeuraFlow AI](https://github.com/Piyu242005/NeuraFlow-AI)**<br/>*Production-grade Multi-LLM AI Platform* | `Docker` `Kubernetes` `GitHub Actions` `Monitoring` | Scalable cloud-native orchestration enabling resilient, high-availability multi-model inference. |
+| **[AI Trading Coach](https://github.com/Piyu242005/AI-Trading-Coach)**<br/>*Advanced Market Behavioral Analytics* | `XGBoost` `SHAP` `AI Insights` | Delivers predictive analytics and explainable AI insights for data-driven algorithmic trading. |
+| **[Asset Intelligence Platform](https://github.com/Piyu242005/Asset-Intelligence-Platform)**<br/>*Enterprise Risk & Asset Forecasting* | `Predictive Analytics` `Asset Forecasting` `Risk Intelligence` | Proactive asset monitoring and risk mitigation utilizing robust predictive forecasting models. |
+| **[Customer Retention Engine](https://github.com/Piyu242005/Customer-Retention-Engine)**<br/>*Strategic Churn Prediction System* | `Machine Learning` `Business Intelligence` | Identifies at-risk customers with high precision, driving automated, targeted retention campaigns. |
+| **[Workforce Attrition Intelligence](https://github.com/Piyu242005/Workforce-Attrition-Intelligence)**<br/>*Predictive HR Analytics Modeling* | `HR Analytics` `Predictive Modeling` | Empowers HR strategy with predictive insights into workforce dynamics and retention factors. |
+| **[Last-Mile Route Optimizer](https://github.com/Piyu242005/Last-Mile-Route-Optimizer)**<br/>*Logistics Analytics & Optimization* | `Optimization` `Logistics Analytics` | Maximizes delivery efficiency, reducing operational overhead via advanced mathematical optimization. |
 
 </div>
 
 <br/>
 
-## 📂 Featured Data Science Projects
+## 🧠 Architecture Mindset
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF9D&center=true&vCenter=true&multiline=false&width=750&height=40&lines=Data+→+Intelligence+→+Prediction+→+Automation+→+Business+Impact" alt="Architecture Mindset Flow" />
+</div>
+
+<br/>
+
+## ⚡ Technical Expertise
+
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🤖 AI Engineering</h3>
+      <img src="https://img.shields.io/badge/LLMs-00FF9D?style=flat-square&logoColor=black&color=0d1117&labelColor=00FF9D"/><br/>
+      <img src="https://img.shields.io/badge/RAG-00FF9D?style=flat-square&logoColor=black&color=0d1117&labelColor=00FF9D"/><br/>
+      <img src="https://img.shields.io/badge/LangChain-00FF9D?style=flat-square&logoColor=black&color=0d1117&labelColor=00FF9D"/><br/>
+      <img src="https://img.shields.io/badge/Prompt_Engineering-00FF9D?style=flat-square&logoColor=black&color=0d1117&labelColor=00FF9D"/><br/>
+      <img src="https://img.shields.io/badge/Multi--Agent_Systems-00FF9D?style=flat-square&logoColor=black&color=0d1117&labelColor=00FF9D"/>
+    </td>
+    <td width="33%" valign="top">
+      <h3>⚙️ Machine Learning</h3>
+      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/XGBoost-189FDD?style=flat-square&logo=xgboost&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+    </td>
+    <td width="33%" valign="top">
+      <h3>📊 Data Science</h3>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black"/><br/>
+      <img src="https://img.shields.io/badge/EDA-4B8BBE?style=flat-square&logo=python&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🐳 DevOps</h3>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/CI/CD-00FF9D?style=flat-square&logoColor=black&color=0d1117&labelColor=00FF9D"/><br/>
+      <img src="https://img.shields.io/badge/Monitoring-00FF9D?style=flat-square&logoColor=black&color=0d1117&labelColor=00FF9D"/>
+    </td>
+    <td width="33%" valign="top">
+      <h3>☁️ Cloud & Backend</h3>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/REST_APIs-00FF9D?style=flat-square&logoColor=black&color=0d1117&labelColor=00FF9D"/>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🎯 Current Focus</h3>
+      <p>🔭 <b>Building Production AI Systems</b></p>
+      <p>🌱 <b>Learning Advanced MLOps</b></p>
+      <p>🚀 <b>Exploring Multi-Agent Architectures</b></p>
+      <p>☁️ <b>Cloud Native AI Infrastructure</b></p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+## 📈 GitHub Analytics
 
 <div align="center">
 
-| # | Project | Description | Stack | Business Impact / Highlights |
-|:-:|---------|-------------|:-----:|:----------------------------|
-| 🤖 | [**RAG-Based AI**](https://github.com/Piyu242005/RAG-Based-AI) | Intelligent document Q&A system using Retrieval-Augmented Generation | `AI` `RAG` `LLMs` | **Designed scalable architecture** for precise and context-aware document retrieval |
-| 🌍 | [**Green Destinations Attrition Analysis**](https://github.com/Piyu242005/Green-Destinations-Employee-Attrition-Analysis) | ML-powered HR analytics system for predicting employee attrition and enabling data-driven retention strategies | `ML` `Classification` `Streamlit` | **Developed end-to-end pipeline with SMOTE & Random Forest, delivering real-time risk prediction and actionable business insights** |
-| 📈 | [**TCS Stock Analysis**](https://github.com/Piyu242005/TCS-Stock-Data---Live-and-Latest) | Real-time stock data analytics and interactive visualizations | `Finance` `Analytics` | **Analyzed massive datasets** for trend forecasting and market insight generation |
-| 👥 | [**Employee Attrition**](https://github.com/Piyu242005/Green-Destinations-Employee-Attrition-Analysis) | HR analytics focused on exploratory data analysis for predicting attrition | `EDA` `Python` | **Identified critical retention factors** using advanced statistical analysis |
-| 🐍 | [**Advanced Python Solutions**](https://github.com/Piyu242005/Advanced-Python-Project-Ideas-for-Real-World-Applications) | Collection of advanced Python tools and automated workflows | `Python` `Automation` | **Developed 6+ secure & automated tools**, including encryption and scraping |
+<img src="https://github-readme-stats.vercel.app/api?username=Piyu242005&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&cache_seconds=1800&title_color=00FF9D" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyu242005&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&cache_seconds=1800&title_color=00FF9D" width="48%" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Piyu242005&theme=radical&hide_border=true&background=0d1117&ring=00FF9D&fire=00FF9D&currStreakNum=00FF9D" width="48%" />
+
+<br/><br/>
+
+<!-- GitHub Trophies -->
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=Piyu242005&theme=radical&no-frame=true&no-bg=true&margin-w=15&title=Trophies" alt="Piyu242005 Trophies" />
+</a>
+
+<br/><br/>
+
+<!-- GitHub Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Piyu242005&theme=radical&hide_border=true&bg_color=0d1117&color=00FF9D" width="100%" />
 
 </div>
 
 <br/>
 
-## 💼 Technical Skills & Expertise
+## 🌐 Connect & Collaborate
 
 <div align="center">
 
-### 🧠 Data Science & Machine Learning
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-</p>
-
-<p>
-  <code>Predictive Modeling</code>
-  <code>Statistical Analysis</code>
-  <code>Model Deployment</code>
-</p>
-
----
-
-### 📊 Data Analysis & Visualization
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
-</p>
-
-<p>
-  <code>EDA</code>
-  <code>Data Wrangling</code>
-  <code>A/B Testing</code>
-</p>
-
----
-
-### 🤖 AI & NLP
-<p>
-  <code>Deep Learning</code>
-  <code>LLMs</code>
-  <code>NLP</code>
-  <code>RAG</code>
-  <code>Generative AI</code>
-  <code>Prompt Engineering</code>
-  <code>Feature Engineering</code>
-  <code>NLTK</code>
-  <code>spaCy</code>
-</p>
-
----
-
-### 🛠️ Tools & Platforms
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-</p>
-
-<p>
-  <code>REST APIs</code>
-  <code>Agile</code>
-  <code>Version Control</code>
-</p>
-
-</div>
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore_My_Work-00FF9D?style=for-the-badge&logoColor=black&color=0d1117&labelColor=00FF9D)](https://piyu24.me/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/piyush-ramteke-24-mylife)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/Piyu242005)
+[![Email](https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:piyu.143247@gmail.com)
 
 <br/>
-
----
-
-## 📧 Let's Connect & Collaborate
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/📧_Email-piyu.143247@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:piyu.143247@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Piyush_Ramteke-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piyush-ramteke-24-mylife)
-[![GitHub](https://img.shields.io/badge/🐙_GitHub-Piyu242005-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Piyu242005)
-[![Instagram](https://img.shields.io/badge/📸_Instagram-my.life__24143-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/my.life_24143/)
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐ If you find this repository helpful, dropping a star would mean a lot!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
 
 Made with 💚 by **Piyush Ramteke** © 2026
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=Piyu242005%2FPiyu-Portfolio-Website&countColor=%23c8ff00)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=Piyu242005%2FPiyu-Portfolio-Website&countColor=%2300FF9D)
 
 </div>
