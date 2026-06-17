@@ -73,7 +73,6 @@
 |:---|:---|:---|
 | **[NeuraFlow AI](https://github.com/Piyu242005/NeuraFlow-AI)**<br/>*Production-grade Multi-LLM AI Platform* | `Docker` `Kubernetes` `GitHub Actions` `Monitoring` | Scalable cloud-native orchestration enabling resilient, high-availability multi-model inference. |
 | **[AI Trading Coach](https://github.com/Piyu242005/AI-Trading-Coach)**<br/>*Advanced Market Behavioral Analytics* | `XGBoost` `SHAP` `AI Insights` | Delivers predictive analytics and explainable AI insights for data-driven algorithmic trading. |
-| **[Asset Intelligence Platform](https://github.com/Piyu242005/Asset-Intelligence-Platform)**<br/>*Enterprise Risk & Asset Forecasting* | `Predictive Analytics` `Asset Forecasting` `Risk Intelligence` | Proactive asset monitoring and risk mitigation utilizing robust predictive forecasting models. |
 | **[Customer Retention Engine](https://github.com/Piyu242005/Customer-Retention-Engine)**<br/>*Strategic Churn Prediction System* | `Machine Learning` `Business Intelligence` | Identifies at-risk customers with high precision, driving automated, targeted retention campaigns. |
 | **[Workforce Attrition Intelligence](https://github.com/Piyu242005/Workforce-Attrition-Intelligence)**<br/>*Predictive HR Analytics Modeling* | `HR Analytics` `Predictive Modeling` | Empowers HR strategy with predictive insights into workforce dynamics and retention factors. |
 | **[Last-Mile Route Optimizer](https://github.com/Piyu242005/Last-Mile-Route-Optimizer)**<br/>*Logistics Analytics & Optimization* | `Optimization` `Logistics Analytics` | Maximizes delivery efficiency, reducing operational overhead via advanced mathematical optimization. |
@@ -129,9 +128,17 @@
 
 <br/>
 
-### 🎯 Current Focus
-<p>🔭 <b>Building Production AI Systems</b> &nbsp;|&nbsp; 🌱 <b>Learning Advanced MLOps</b></p>
-<p>🚀 <b>Exploring Multi-Agent Architectures</b> &nbsp;|&nbsp; ☁️ <b>Cloud Native AI Infrastructure</b></p>
+### <span style="color: #FF0000;">🎯 Current Focus</span>
+<p>
+  <img src="https://img.shields.io/badge/🔭_Building-Production_AI_Systems-000000?style=for-the-badge&labelColor=FF0000"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/🌱_Learning-Advanced_MLOps-000000?style=for-the-badge&labelColor=FF0000"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/🚀_Exploring-Multi--Agent_Architectures-000000?style=for-the-badge&labelColor=FF0000"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/☁️_Cloud_Native-AI_Infrastructure-000000?style=for-the-badge&labelColor=FF0000"/>
+</p>
 
 </div>
 
@@ -146,7 +153,7 @@
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Piyu242005&theme=dark&hide_border=true&background=000000&ring=FF0000&fire=FF0000&currStreakNum=FF0000&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=Piyu242005&theme=dark&hide_border=true&background=000000&ring=FF0000&fire=FF0000&currStreakNum=FF0000&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" width="48%" />
 
 <br/><br/>
 
