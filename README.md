@@ -169,6 +169,14 @@
 
 <br/>
 
+<details>
+  <summary style="cursor: pointer; color: #a3a3a3;"><b>☕ Support my work (View UPI QR)</b></summary>
+  <br/>
+  <img src="UPI%20Piyu.jpeg" alt="UPI QR Code" width="250" style="border-radius: 10px; border: 1px solid #333;" />
+</details>
+
+<br/>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer" width="100%" />
 
 Made with ❤️ by **Piyush Ramteke** © 2026
