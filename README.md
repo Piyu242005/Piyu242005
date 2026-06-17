@@ -153,7 +153,7 @@
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=Piyu242005&theme=dark&hide_border=true&background=000000&ring=FF0000&fire=FF0000&currStreakNum=FF0000&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Piyu242005&theme=dark&hide_border=true&background=000000&ring=FF0000&fire=FF0000&currStreakNum=FF0000&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&v=1" width="48%" />
 
 <br/><br/>
 
@@ -171,7 +171,7 @@
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Explore_My_Work-000000?style=for-the-badge&logo=google-chrome&logoColor=FF0000&color=000000&labelColor=000000)](https://piyu24.me/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-000000?style=for-the-badge&logo=linkedin&logoColor=FF0000&color=000000&labelColor=000000)](https://www.linkedin.com/in/piyush-ramteke-24-mylife)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-000000?style=for-the-badge&logo=linkedin&logoColor=FF0000&color=000000&labelColor=000000)](https://www.linkedin.com/in/piyu24/)
 [![Email](https://img.shields.io/badge/Email-Reach_Out-000000?style=for-the-badge&logo=gmail&logoColor=FF0000&color=000000&labelColor=000000)](mailto:piyu.143247@gmail.com)
 
 <br/>
