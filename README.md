@@ -153,10 +153,6 @@
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Piyu242005&theme=dark&hide_border=true&background=000000&ring=FF0000&fire=FF0000&currStreakNum=FF0000&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&v=1" width="48%" />
-
-<br/><br/>
-
 
 
 <!-- GitHub Activity Graph -->
