@@ -22,40 +22,10 @@
 
 ## 🦅 Professional Summary
 
-<div align="center">
+> **AI Engineer | Data Scientist | Machine Learning Specialist**
+>
+> Passionate about building AI-powered solutions using Machine Learning, Generative AI, FastAPI, and Data Science. Skilled in developing scalable applications, RAG systems, and data-driven solutions that solve real-world problems.
 
-```python
-class AIEngineer(Profile):
-    def __init__(self):
-        super().__init__(
-            name="Piyush Ramteke",
-            role=["AI Engineer", "Data Scientist"]
-        )
-        
-    async def execute_mission(self):
-        """
-        ╔══════════════════════════════════════════════════════════════════════════╗
-        ║  🎯 PIYUSH RAMTEKE — AI ENGINEER & DATA SCIENTIST                        ║
-        ╠══════════════════════════════════════════════════════════════════════════╣
-        ║                                                                          ║
-        ║  Designing and deploying production-grade AI systems that transform      ║
-        ║  raw data into measurable business value. Specializing in Multi-LLM      ║
-        ║  Platforms, Predictive Analytics, and Intelligent Automation pipelines.  ║
-        ║                                                                          ║
-        ║  ▸ Architect of scalable ML pipelines with end-to-end cloud deployment   ║
-        ║  ▸ Builder of enterprise AI products from ideation → production          ║
-        ║  ▸ Expert in bridging cutting-edge AI research with real-world impact    ║
-        ║  ▸ Focused on MLOps, LLM orchestration & intelligent data products       ║
-        ║                                                                          ║
-        ╚══════════════════════════════════════════════════════════════════════════╝
-        """
-        await self.deploy_systems(scale="global", impact="maximum")
-        return "Business Value Unlocked"
-```
-
-</div>
-
-<br/>
 
 ## 📊 Recruiter Dashboard : Key Metrics
 
