@@ -174,11 +174,22 @@
 
 <br/>
 
+---
+
 <details>
-  <summary style="cursor: pointer; color: #a3a3a3;"><b>☕ Support my work (View UPI QR)</b></summary>
+  <summary>
+    <img src="https://img.shields.io/badge/☕_Buy_Me_a_Coffee-Support_My_Work-FF0000?style=for-the-badge&labelColor=000000&logo=buymeacoffee&logoColor=FF0000" />
+  </summary>
   <br/>
-  <img src="UPI%20Piyu.jpeg" alt="UPI QR Code" width="250" style="border-radius: 10px; border: 1px solid #333;" />
+  <p><b>🙏 If my work helped you, consider buying me a coffee!</b></p>
+  <p style="color: #a3a3a3;">Scan the UPI QR code below to support ☕</p>
+  <br/>
+  <img src="UPI%20Piyu.jpeg" alt="UPI QR Code — Piyush Ramteke" width="220" style="border-radius: 16px; border: 2px solid #FF0000; box-shadow: 0 0 20px #FF000033;" />
+  <br/><br/>
+  <p style="color: #a3a3a3; font-size: 13px;">UPI ID: <b>piyu.143247@gmail.com</b></p>
 </details>
+
+---
 
 <br/>
 
