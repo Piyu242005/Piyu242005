@@ -19,7 +19,6 @@
 </div>
 
 <br/>
-
 ## 🦅 Professional Summary
 
 > **AI Engineer | Data Scientist | Machine Learning Specialist**
@@ -197,9 +196,6 @@
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Piyu242005&theme=dark&hide_border=true&background=000000&ring=FF0000&fire=FF0000&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&sideNums=ffffff&currStreakNum=ffffff&statletes=ffffff" width="100%" />
-
-<br/><br/>
 
 <!-- GitHub Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Piyu242005&theme=dark&hide_border=true&bg_color=000000&color=FF0000&line=FF0000&point=FF0000" width="100%" />
