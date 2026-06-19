@@ -153,7 +153,7 @@
 
 <br/><br/>
 
-<img src="https://camo.githubusercontent.com/7240cfcfc41ea198a6305327c7e999e5aaefcf056a74fb16fdc32590b579e35f/" width="100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Piyu242005&theme=dark&hide_border=true&background=000000&ring=FF0000&fire=FF0000&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&sideNums=ffffff&currStreakNum=ffffff&statletes=ffffff" width="100%" />
 
 <br/><br/>
 
