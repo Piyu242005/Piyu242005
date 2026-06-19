@@ -22,45 +22,59 @@
 
 ## 🦅 Professional Summary
 
-> **AI Engineer | Machine Learning Specialist | Data Scientist**
->
-> Designing and deploying **production-grade AI systems** that transform raw data into measurable business value. With a strong foundation in **Machine Learning**, **MLOps**, and **Cloud Deployment**, I architect scalable solutions ranging from multi-LLM platforms to high-performance predictive engines. My focus lies at the intersection of advanced AI engineering and enterprise business strategy, ensuring robust, cloud-native deployments that drive automation and actionable intelligence.
+<div align="center">
+
+<img src="https://img.shields.io/badge/Role-AI%20Engineer%20%26%20ML%20Specialist-000000?style=for-the-badge&logoColor=FF0000&labelColor=FF0000" />
+&nbsp;
+<img src="https://img.shields.io/badge/Domain-Data%20Science%20%26%20MLOps-000000?style=for-the-badge&logoColor=FF0000&labelColor=FF0000" />
+&nbsp;
+<img src="https://img.shields.io/badge/Stack-Cloud%20Native%20AI-000000?style=for-the-badge&logoColor=FF0000&labelColor=FF0000" />
+
+</div>
+
+<br/>
+
+```
+╔══════════════════════════════════════════════════════════════════════════════════╗
+║  🎯  PIYUSH RAMTEKE — AI ENGINEER & DATA SCIENTIST                              ║
+╠══════════════════════════════════════════════════════════════════════════════════╣
+║                                                                                  ║
+║  Designing and deploying production-grade AI systems that transform raw          ║
+║  data into measurable business value. Specializing in Multi-LLM Platforms,      ║
+║  Predictive Analytics, and Intelligent Automation pipelines.                     ║
+║                                                                                  ║
+║  ▸ Architect of scalable ML pipelines with end-to-end cloud deployment           ║
+║  ▸ Builder of enterprise AI products from ideation → production                  ║
+║  ▸ Expert in bridging cutting-edge AI research with real-world impact            ║
+║  ▸ Focused on MLOps, LLM orchestration & intelligent data products               ║
+║                                                                                  ║
+╚══════════════════════════════════════════════════════════════════════════════════╝
+```
 
 <br/>
 
 ## 📊 Recruiter Dashboard : Key Metrics
 
 <div align="center">
-  <table align="center" style="border: none; width: 100%; text-align: center;">
-    <tr>
-      <td align="center" width="33%">
-        <h3>🚀 30+</h3>
-        <p><b>Projects Built</b></p>
-      </td>
-      <td align="center" width="33%">
-        <h3>🧠 10+</h3>
-        <p><b>AI Systems</b></p>
-      </td>
-      <td align="center" width="33%">
-        <h3>⚙️ 5+</h3>
-        <p><b>End-to-End ML Apps</b></p>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="33%">
-        <h3>💬 Multi-LLM</h3>
-        <p><b>Platforms Built</b></p>
-      </td>
-      <td align="center" width="33%">
-        <h3>🐳 Docker & K8s</h3>
-        <p><b>Container Orchestration</b></p>
-      </td>
-      <td align="center" width="33%">
-        <h3>🔄 CI/CD</h3>
-        <p><b>Pipelines & Monitoring</b></p>
-      </td>
-    </tr>
-  </table>
+
+| 🚀 Projects Built | 🧠 AI Systems Deployed | ⚙️ End-to-End ML Apps |
+|:---:|:---:|:---:|
+| **`30+`** | **`10+`** | **`5+`** |
+| Full-stack AI & Data | LLM • RAG • Predictive | Cloud-native pipelines |
+
+| 💬 Multi-LLM Platforms | 🐳 Docker & Kubernetes | 🔄 CI/CD Pipelines |
+|:---:|:---:|:---:|
+| **`Built & Deployed`** | **`Container Orchestration`** | **`Automated Monitoring`** |
+| Gemini • OpenAI • Groq | Scalable microservices | GitHub Actions • ArgoCD |
+
+<br/>
+
+<img src="https://img.shields.io/badge/✅_Available_For-Full--Time_Roles-000000?style=for-the-badge&labelColor=FF0000" />
+&nbsp;
+<img src="https://img.shields.io/badge/📍_Location-India_(Open_to_Remote)-000000?style=for-the-badge&labelColor=FF0000" />
+&nbsp;
+<img src="https://img.shields.io/badge/🎓_Degree-Engineering_Graduate-000000?style=for-the-badge&labelColor=FF0000" />
+
 </div>
 
 <br/>
@@ -69,13 +83,59 @@
 
 <div align="center">
 
-| Project & Overview | Core Technologies & Architecture | Business Impact |
-|:---|:---|:---|
-| **[NeuraFlow AI](https://github.com/Piyu242005/NeuraFlow-AI)**<br/>*Production-grade Multi-LLM AI Platform* | `Docker` `Kubernetes` `GitHub Actions` `Monitoring` | Scalable cloud-native orchestration enabling resilient, high-availability multi-model inference. |
-| **[AI Trading Coach](https://github.com/Piyu242005/AI-Trading-Coach)**<br/>*Advanced Market Behavioral Analytics* | `XGBoost` `SHAP` `AI Insights` | Delivers predictive analytics and explainable AI insights for data-driven algorithmic trading. |
-| **[Customer Retention Engine](https://github.com/Piyu242005/Customer-Retention-Engine)**<br/>*Strategic Churn Prediction System* | `Machine Learning` `Business Intelligence` | Identifies at-risk customers with high precision, driving automated, targeted retention campaigns. |
-| **[Workforce Attrition Intelligence](https://github.com/Piyu242005/Workforce-Attrition-Intelligence)**<br/>*Predictive HR Analytics Modeling* | `HR Analytics` `Predictive Modeling` | Empowers HR strategy with predictive insights into workforce dynamics and retention factors. |
-| **[Last-Mile Route Optimizer](https://github.com/Piyu242005/Last-Mile-Route-Optimizer)**<br/>*Logistics Analytics & Optimization* | `Optimization` `Logistics Analytics` | Maximizes delivery efficiency, reducing operational overhead via advanced mathematical optimization. |
+<img src="https://img.shields.io/badge/All_Projects-Production_Grade-000000?style=for-the-badge&labelColor=FF0000&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/Status-Actively_Maintained-000000?style=for-the-badge&labelColor=FF0000&logoColor=white" />
+
+<br/><br/>
+
+</div>
+
+---
+
+### ⚡ [`NeuraFlow AI`](https://github.com/Piyu242005/NeuraFlow-AI) — Production Multi-LLM Platform
+
+<img src="https://img.shields.io/badge/Type-AI%20Platform-000000?style=flat-square&labelColor=FF0000" /> <img src="https://img.shields.io/badge/Docker-Containerized-000000?style=flat-square&logo=docker&logoColor=FF0000" /> <img src="https://img.shields.io/badge/Kubernetes-Orchestrated-000000?style=flat-square&logo=kubernetes&logoColor=FF0000" /> <img src="https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-000000?style=flat-square&logo=github-actions&logoColor=FF0000" /> <img src="https://img.shields.io/badge/Status-Live-000000?style=flat-square&labelColor=FF0000" />
+
+> 🎯 **Impact:** Cloud-native, resilient multi-model AI inference engine supporting Gemini, OpenAI & Groq simultaneously. Delivers high-availability inference with automated monitoring, horizontal scaling, and zero-downtime deployments via Kubernetes orchestration.
+
+---
+
+### 📈 [`AI Trading Coach`](https://github.com/Piyu242005/AI-Trading-Coach) — Explainable Market Intelligence
+
+<img src="https://img.shields.io/badge/Type-Predictive%20Analytics-000000?style=flat-square&labelColor=FF0000" /> <img src="https://img.shields.io/badge/XGBoost-Model-000000?style=flat-square&logoColor=FF0000" /> <img src="https://img.shields.io/badge/SHAP-Explainability-000000?style=flat-square&logoColor=FF0000" /> <img src="https://img.shields.io/badge/Python-Data%20Pipeline-000000?style=flat-square&logo=python&logoColor=FF0000" />
+
+> 🎯 **Impact:** Deploys XGBoost with SHAP-driven explainability to decode market behavioral patterns. Provides data-driven, interpretable signals that sharpen algorithmic trading decisions and reduce risk exposure.
+
+---
+
+### 🔄 [`Customer Retention Engine`](https://github.com/Piyu242005/Customer-Retention-Engine) — Churn Prediction System
+
+<img src="https://img.shields.io/badge/Type-ML%20Classification-000000?style=flat-square&labelColor=FF0000" /> <img src="https://img.shields.io/badge/Scikit--Learn-Pipeline-000000?style=flat-square&logo=scikit-learn&logoColor=FF0000" /> <img src="https://img.shields.io/badge/Business%20Intelligence-Insights-000000?style=flat-square&logoColor=FF0000" /> <img src="https://img.shields.io/badge/Automation-Triggered-000000?style=flat-square&logoColor=FF0000" />
+
+> 🎯 **Impact:** High-precision churn prediction model identifying at-risk customers before they leave. Powers automated retention campaigns that significantly reduce customer acquisition costs and boost lifetime value.
+
+---
+
+### 👥 [`Workforce Attrition Intelligence`](https://github.com/Piyu242005/Workforce-Attrition-Intelligence) — Predictive HR Analytics
+
+<img src="https://img.shields.io/badge/Type-HR%20Analytics-000000?style=flat-square&labelColor=FF0000" /> <img src="https://img.shields.io/badge/Predictive%20Modeling-Advanced-000000?style=flat-square&logoColor=FF0000" /> <img src="https://img.shields.io/badge/Power%20BI-Dashboards-000000?style=flat-square&logo=power-bi&logoColor=FF0000" /> <img src="https://img.shields.io/badge/Decision%20Support-System-000000?style=flat-square&logoColor=FF0000" />
+
+> 🎯 **Impact:** Predictive HR intelligence platform modeling workforce dynamics and attrition risk factors. Empowers leadership to proactively manage talent retention, reducing turnover costs and improving workforce stability.
+
+---
+
+### 🚚 [`Last-Mile Route Optimizer`](https://github.com/Piyu242005/Last-Mile-Route-Optimizer) — Logistics Optimization Engine
+
+<img src="https://img.shields.io/badge/Type-Optimization%20Engine-000000?style=flat-square&labelColor=FF0000" /> <img src="https://img.shields.io/badge/Operations%20Research-Applied-000000?style=flat-square&logoColor=FF0000" /> <img src="https://img.shields.io/badge/Python-Optimization-000000?style=flat-square&logo=python&logoColor=FF0000" /> <img src="https://img.shields.io/badge/Analytics-Geospatial-000000?style=flat-square&logoColor=FF0000" />
+
+> 🎯 **Impact:** Mathematical optimization engine minimizing delivery route overhead via advanced OR algorithms. Maximizes fleet efficiency, cuts fuel costs, and elevates last-mile delivery SLAs at scale.
+
+---
+
+<div align="center">
+
+[![View All Projects](https://img.shields.io/badge/🔗_View_All_Repositories-GitHub-000000?style=for-the-badge&logo=github&logoColor=FF0000&labelColor=000000)](https://github.com/Piyu242005?tab=repositories)
 
 </div>
 
