@@ -186,7 +186,7 @@
   <br/>
   <img src="UPI%20Piyu.jpeg" alt="UPI QR Code — Piyush Ramteke" width="220" style="border-radius: 16px; border: 2px solid #FF0000; box-shadow: 0 0 20px #FF000033;" />
   <br/><br/>
-  <p style="color: #a3a3a3; font-size: 13px;">UPI ID: <b>piyu.143247@gmail.com</b></p>
+  <p style="color: #a3a3a3; font-size: 13px;">UPI ID: <b>8459727473@kotakbank</b></p>
 </details>
 
 ---
