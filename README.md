@@ -153,7 +153,9 @@
 
 <br/><br/>
 
+<img src="https://camo.githubusercontent.com/7240cfcfc41ea198a6305327c7e999e5aaefcf056a74fb16fdc32590b579e35f/" width="100%" />
 
+<br/><br/>
 
 <!-- GitHub Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Piyu242005&theme=dark&hide_border=true&bg_color=000000&color=FF0000&line=FF0000&point=FF0000" width="100%" />
