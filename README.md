@@ -19,6 +19,7 @@
 </div>
 
 <br/>
+
 ## 🦅 Professional Summary
 
 <div align="center">
@@ -32,7 +33,7 @@
         <br/>
         <details style="margin-top: 10px; cursor: pointer;">
           <summary>
-            <img src="https://img.shields.io/badge/📊_Explore_Piyu's_Data-Click_to_Expand-FF0000?style=for-the-badge&labelColor=000000" alt="Toggle Data" />
+            <img src="https://img.shields.io/badge/📊_Explore_Piyu%27s_Data-Click_to_Expand-FF0000?style=for-the-badge&labelColor=000000" alt="Toggle Data" />
           </summary>
           <br/>
           <img src="PIYU%20DATA.png" alt="Piyu Data" width="95%" style="border-radius: 12px; border: 1px solid #333; margin-top: 5px; box-shadow: 0 0 20px #FF000033;" />
