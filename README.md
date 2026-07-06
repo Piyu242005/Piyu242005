@@ -253,8 +253,14 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer" width="100%" />
 
-Made with ❤️ by **Piyush Ramteke** © 2026
+Made with ❤️ by **Piyush Ramteke**
+
+<br/>
+
+**© 2026 Piyush Ramteke. All Rights Reserved.**<br/>
+<sup style="color: #a3a3a3;">No part of this repository may be reproduced, distributed, or transmitted in any form without prior written permission. See the <a href="LICENSE" style="color: #FF0000;">LICENSE</a> file for details.</sup>
+
+<br/>
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=Piyu242005%2FPiyu-Portfolio-Website&countColor=%23FF0000)
-
 </div>
