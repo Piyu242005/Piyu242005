@@ -21,9 +21,26 @@
 <br/>
 ## 🦅 Professional Summary
 
-> **AI Engineer | Data Scientist | Machine Learning Specialist**
->
-> Passionate about building AI-powered solutions using Machine Learning, Generative AI, FastAPI, and Data Science. Skilled in developing scalable applications, RAG systems, and data-driven solutions that solve real-world problems.
+<div align="center">
+  <table align="center" style="border: 1px solid #333; border-radius: 12px; width: 100%; text-align: center; background-color: #0d1117;">
+    <tr>
+      <td align="center" style="padding: 30px;">
+        <h3 style="margin: 0; color: #FF0000; font-family: Inter, sans-serif; letter-spacing: 0.5px;">AI Engineer | Data Scientist | Machine Learning Specialist</h3>
+        <p style="color: #a3a3a3; font-size: 15px; line-height: 1.6; margin-top: 15px;">
+          Passionate about building AI-powered solutions using <b>Machine Learning</b>, <b>Generative AI</b>, <b>FastAPI</b>, and <b>Data Science</b>. Skilled in developing scalable applications, RAG systems, and data-driven solutions that solve real-world problems.
+        </p>
+        <br/>
+        <details style="margin-top: 10px; cursor: pointer;">
+          <summary>
+            <img src="https://img.shields.io/badge/📊_Explore_Piyu's_Data-Click_to_Expand-FF0000?style=for-the-badge&labelColor=000000" alt="Toggle Data" />
+          </summary>
+          <br/>
+          <img src="PIYU%20DATA.png" alt="Piyu Data" width="95%" style="border-radius: 12px; border: 1px solid #333; margin-top: 5px; box-shadow: 0 0 20px #FF000033;" />
+        </details>
+      </td>
+    </tr>
+  </table>
+</div>
 
 
 ## 📊 Recruiter Dashboard : Key Metrics
