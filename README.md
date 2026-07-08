@@ -258,7 +258,7 @@ Made with ❤️ by **Piyush Ramteke**
 <br/>
 
 **© 2026 Piyush Ramteke. All Rights Reserved.**<br/>
-<sup style="color: #a3a3a3;">No part of this repository may be reproduced, distributed, or transmitted in any form without prior written permission. See the <a href="LICENSE" style="color: #FF0000;">LICENSE</a> file for details. View <a href="https://piyu24.me/legal" style="color: #FF0000;">Terms and Conditions</a>.</sup>
+<sup style="color: #a3a3a3;">No part of this repository may be reproduced, distributed, or transmitted in any form without prior written permission. See the <a href="LICENSE" style="color: #FF0000;">LICENSE</a> file for details. <a href="https://piyu24.me/legal" style="color: #FF0000;">View the website to read terms and conditions</a>.</sup>
 
 <br/>
 
